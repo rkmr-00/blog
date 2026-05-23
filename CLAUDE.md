@@ -106,7 +106,7 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 
 ## 未完了タスク
 
-- [ ] Google Search Console登録・サイトマップ送信（`/blog/sitemap.xml`）
+- [x] Google Search Console登録・サイトマップ送信（2026-05-23 完了・HTMLタグ確認済み）
 - [ ] Amazon Associates 審査通過確認
 - [ ] 独自ドメイン取得（審査通過後に検討）
 
