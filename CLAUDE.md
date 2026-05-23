@@ -10,18 +10,18 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **26本**（posts/配下） |
+| 記事数 | **28本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ❌ 未設定 |
-| 最終デプロイ | 2026-05-23（記事26本体制） |
+| 最終デプロイ | 2026-05-23（記事28本体制） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全26本の記事が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全28本の記事が収益化開始 |
 | 🟡 中 | NASおすすめランキング記事作成 | 高単価・ニッチ低競合 |
 | 🟡 中 | ロボット掃除機比較記事作成（Roomba vs Eufy vs Roborock） | 詳細比較で差別化 |
 | 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
@@ -154,14 +154,16 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 | `gaming-headset-ranking.md` | ゲーミングヘッドセット ランキング10選（PS5・PC・Switch対応） | ranking |
 | `electric-kettle-ranking.md` | 電気ケトル ランキング8選（バルミューダ・デロンギ・タイガー比較） | ranking |
 | `4k-tv-ranking.md` | 4Kテレビ ランキング10選（Sony・Samsung・LG・パナソニック比較） | ranking |
+| `coffee-maker-ranking.md` | コーヒーメーカー ランキング8選（全自動・カプセル・ドリップ比較） | ranking |
+| `gaming-chair-ranking.md` | ゲーミングチェア ランキング8選（DXRacer・AKRacing・Secretlab比較） | ranking |
 
 ## 次に書くべき記事（優先順）
 
-1. コーヒーメーカーおすすめランキング（全自動・カプセル式・ドリップ）
-2. 電動自転車おすすめランキング（Panasonic・YAMAHA・ブリヂストン比較）
-3. イヤホンおすすめランキング（有線・高音質・コスパ）
-4. ゲーミングチェアおすすめランキング（DXRacer・AKRacing比較）
-5. スマートウォッチ比較（Apple Watch vs Galaxy Watch vs Pixel Watch）
+1. 電動自転車おすすめランキング（Panasonic・YAMAHA・ブリヂストン比較）
+2. イヤホンおすすめランキング（有線・高音質・コスパ）
+3. スマートウォッチ比較（Apple Watch vs Galaxy Watch vs Pixel Watch）
+4. ゲーミングPC周辺機器まとめ（モニター・ヘッドセット・マウスのセット提案）
+5. ホームシアタースピーカーおすすめランキング
 
 ## 未完了タスク
 
