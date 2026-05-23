@@ -199,6 +199,7 @@ A. Amazon製品（Fire TV・Kindle等）をよく使うならEcho、Google検索
 
 ## あわせて読みたい
 
+- [スマートロックおすすめランキング](../smart-lock-ranking/)
 - [ワイヤレスイヤホンおすすめランキング](../wireless-earphone-ranking/)
 - [ノイズキャンセリングヘッドホン比較](../noise-cancelling-headphone-comparison/)
 - [タブレットおすすめランキング](../tablet-ranking/)
