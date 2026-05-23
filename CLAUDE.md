@@ -10,18 +10,18 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **30本**（posts/配下） |
+| 記事数 | **32本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ❌ 未設定 |
-| 最終デプロイ | 2026-05-23（記事30本体制） |
+| 最終デプロイ | 2026-05-23（記事32本体制） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全30本の記事が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全32本の記事が収益化開始 |
 | 🟡 中 | NASおすすめランキング記事作成 | 高単価・ニッチ低競合 |
 | 🟡 中 | ロボット掃除機比較記事作成（Roomba vs Eufy vs Roborock） | 詳細比較で差別化 |
 | 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
@@ -158,14 +158,16 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 | `gaming-chair-ranking.md` | ゲーミングチェア ランキング8選（DXRacer・AKRacing・Secretlab比較） | ranking |
 | `electric-bicycle-ranking.md` | 電動自転車 ランキング8選（パナソニック・ヤマハ・ブリヂストン比較） | ranking |
 | `wired-earphone-ranking.md` | 有線イヤホン ランキング10選（高音質・コスパ・SHURE・final比較） | ranking |
+| `smartwatch-comparison.md` | Apple Watch vs Galaxy Watch vs Pixel Watch 3ブランド比較 | comparison |
+| `home-theater-speaker-ranking.md` | ホームシアタースピーカー ランキング8選（Sonos・Bose・JBL・ヤマハ比較） | ranking |
 
 ## 次に書くべき記事（優先順）
 
-1. スマートウォッチ比較（Apple Watch vs Galaxy Watch vs Pixel Watch）
-2. ホームシアタースピーカーおすすめランキング（Sonos・JBL比較）
-3. ゲーミングPC周辺機器まとめ（モニター・ヘッドセット・マウスのセット提案）
-4. 冷蔵庫おすすめランキング（Panasonic・日立・三菱比較）
-5. 洗濯機おすすめランキング（縦型・ドラム式・乾燥機能比較）
+1. 冷蔵庫おすすめランキング（Panasonic・日立・三菱比較）
+2. 洗濯機おすすめランキング（縦型・ドラム式・乾燥機能比較）
+3. ゲーミングPC周辺機器まとめ（デスク環境セット提案記事）
+4. ウォーターサーバーおすすめランキング
+5. 加湿器おすすめランキング（シャープ・パナソニック比較）
 
 ## 未完了タスク
 
