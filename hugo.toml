@@ -1,0 +1,82 @@
+baseURL = "https://rkmr-00.github.io/blog/"
+locale = "ja"
+title = "ガジェットレビューラボ"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 10
+
+[params]
+  env = "production"
+  title = "ガジェットレビューラボ"
+  description = "スマホ・PC・家電を実際に使ってレビュー。最新ガジェットのおすすめランキングや比較記事で、後悔しない買い物をサポートします。"
+  keywords = ["ガジェット", "家電", "レビュー", "おすすめ", "比較", "ランキング"]
+  author = "ガジェットラボ編集部"
+  DateFormat = "2006年1月2日"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  UseHugoToc = true
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "ガジェットレビューラボへようこそ"
+    Content = "スマートフォン・PC・イヤホン・家電などのガジェットを実際に購入してレビュー。**本当に買うべき商品**を選ぶための情報をお届けします。"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    identifier = "ranking"
+    name = "ランキング"
+    url = "/categories/ranking/"
+    weight = 10
+  [[menu.main]]
+    identifier = "review"
+    name = "レビュー"
+    url = "/categories/review/"
+    weight = 20
+  [[menu.main]]
+    identifier = "comparison"
+    name = "比較"
+    url = "/categories/comparison/"
+    weight = 30
+  [[menu.main]]
+    identifier = "guide"
+    name = "購入ガイド"
+    url = "/categories/guide/"
+    weight = 40
+  [[menu.main]]
+    identifier = "about"
+    name = "このブログについて"
+    url = "/about/"
+    weight = 50
+  [[menu.main]]
+    identifier = "privacy"
+    name = "プライバシーポリシー"
+    url = "/privacy/"
+    weight = 60
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
