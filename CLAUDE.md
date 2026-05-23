@@ -93,16 +93,21 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 | `portable-ssd-ranking.md` | ポータブルSSD ランキング8選 | ranking |
 | `gaming-mouse-ranking.md` | ゲーミングマウス ランキング10選 | ranking |
 | `electric-toothbrush-ranking.md` | 電動歯ブラシ ランキング8選 | ranking |
+| `smart-speaker-ranking.md` | スマートスピーカー ランキング7選 | ranking |
+| `tablet-ranking.md` | タブレット ランキング10選 | ranking |
+| `webcam-ranking.md` | ウェブカメラ ランキング8選 | ranking |
+| `keyboard-ranking.md` | キーボード ランキング10選 | ranking |
+| `air-purifier-ranking.md` | 空気清浄機 ランキング8選 | ranking |
+| `wireless-charger-ranking.md` | ワイヤレス充電器 ランキング8選 | ranking |
+| `laptop-stand-ranking.md` | ノートPCスタンド ランキング8選 | ranking |
 
 ## 次に書くべき記事（優先順）
 
-1. スマートスピーカーおすすめランキング（Echo・HomePod比較）
-2. タブレットおすすめランキング（iPad・Android・Fire HD比較）
-3. ウェブカメラおすすめランキング（テレワーク・配信向け）
-4. キーボードおすすめランキング（メカニカル・静音・テレワーク向け）
-5. 空気清浄機おすすめランキング（花粉症・ペット向け）
-6. ワイヤレス充電器おすすめランキング（Qi2・MagSafe対応）
-7. ノートPCスタンドおすすめランキング（テレワーク向け）
+1. ロボット掃除機比較（Roomba vs Eufy vs Roborock 詳細比較）
+2. モニターおすすめランキング（テレワーク・ゲーミング・4K）
+3. NASおすすめランキング（家庭用ファイルサーバー）
+4. スマートロックおすすめランキング（賃貸OK・後付け）
+5. ドライヤーおすすめランキング（Dyson・パナソニック比較）
 
 ## 未完了タスク
 
