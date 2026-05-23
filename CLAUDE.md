@@ -88,14 +88,21 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 | `wireless-earphone-ranking.md` | ワイヤレスイヤホン ランキング10選 | ranking |
 | `robot-vacuum-ranking.md` | ロボット掃除機 ランキング8選 | ranking |
 | `mobile-battery-guide.md` | モバイルバッテリー 選び方・7選 | guide/ranking |
+| `smartwatch-ranking.md` | スマートウォッチ ランキング10選 | ranking |
+| `noise-cancelling-headphone-comparison.md` | NCヘッドホン比較（Sony vs Bose vs Apple） | comparison/ranking |
+| `portable-ssd-ranking.md` | ポータブルSSD ランキング8選 | ranking |
+| `gaming-mouse-ranking.md` | ゲーミングマウス ランキング10選 | ranking |
+| `electric-toothbrush-ranking.md` | 電動歯ブラシ ランキング8選 | ranking |
 
 ## 次に書くべき記事（優先順）
 
-1. スマートウォッチおすすめランキング（検索ボリューム大・高単価）
-2. ノイズキャンセリングヘッドホンおすすめ比較
-3. ポータブルSSDおすすめランキング
-4. ゲーミングマウスおすすめランキング
-5. 電動歯ブラシおすすめランキング
+1. スマートスピーカーおすすめランキング（Echo・HomePod比較）
+2. タブレットおすすめランキング（iPad・Android・Fire HD比較）
+3. ウェブカメラおすすめランキング（テレワーク・配信向け）
+4. キーボードおすすめランキング（メカニカル・静音・テレワーク向け）
+5. 空気清浄機おすすめランキング（花粉症・ペット向け）
+6. ワイヤレス充電器おすすめランキング（Qi2・MagSafe対応）
+7. ノートPCスタンドおすすめランキング（テレワーク向け）
 
 ## 未完了タスク
 
