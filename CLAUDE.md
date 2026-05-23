@@ -10,18 +10,18 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **18本**（posts/配下） |
+| 記事数 | **20本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ❌ 未設定 |
-| 最終デプロイ | 2026-05-23（記事18本体制） |
+| 最終デプロイ | 2026-05-23（記事20本体制） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全18本の記事が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全20本の記事が収益化開始 |
 | 🟡 中 | NASおすすめランキング記事作成 | 高単価・ニッチ低競合 |
 | 🟡 中 | ロボット掃除機比較記事作成（Roomba vs Eufy vs Roborock） | 詳細比較で差別化 |
 | 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
@@ -30,8 +30,8 @@
 
 ### 直近セッションで実施したこと（2026-05-23 セッション2）
 
-- 3本記事追加（モニターおすすめランキング・ドライヤーおすすめランキング・スマートロックおすすめランキング）
-- 既存記事5本（keyboard・webcam・laptop-stand・smart-speaker・tablet）に新記事への内部リンク追加
+- 5本記事追加（モニター・ドライヤー・スマートロック・NAS・ロボット掃除機3ブランド比較ランキング）
+- 既存記事7本（keyboard・webcam・laptop-stand・smart-speaker・portable-ssd・robot-vacuum等）に内部リンク追加
 
 ### セッション終了時のチェックリスト（Claude用）
 
@@ -147,14 +147,16 @@ ASINはAmazon商品URLの `/dp/XXXXXXXXXX/` の部分。
 | `monitor-ranking.md` | モニター ランキング10選（テレワーク・ゲーミング・4K） | ranking |
 | `dryer-ranking.md` | ドライヤー ランキング8選（Dyson・パナソニック比較） | ranking |
 | `smart-lock-ranking.md` | スマートロック ランキング8選（賃貸OK・後付け） | ranking |
+| `nas-ranking.md` | NAS ランキング8選（Synology・QNAP・Buffalo比較） | ranking |
+| `robot-vacuum-comparison.md` | ルンバvsユーフィvsロボロック 3ブランド徹底比較 | comparison |
 
 ## 次に書くべき記事（優先順）
 
-1. NASおすすめランキング（家庭用ファイルサーバー・高単価）
-2. ロボット掃除機比較（Roomba vs Eufy vs Roborock 詳細比較）
-3. コードレス掃除機おすすめランキング（Dyson・Panasonic比較）
-4. スマートプラグおすすめランキング（スマートホーム入門）
-5. ゲーミングヘッドセットおすすめランキング
+1. コードレス掃除機おすすめランキング（Dyson・Panasonic・マキタ比較）
+2. スマートプラグおすすめランキング（スマートホーム入門・節電）
+3. ゲーミングヘッドセットおすすめランキング
+4. 電気ケトルおすすめランキング（バルミューダ・デロンギ比較）
+5. コーヒーメーカーおすすめランキング（全自動・カプセル式）
 
 ## 未完了タスク
 
