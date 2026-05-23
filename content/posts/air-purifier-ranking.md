@@ -186,6 +186,7 @@ A. 静音モード（弱運転）で24時間使用した場合、月100〜300円
 
 ## あわせて読みたい
 
+- [コードレス掃除機おすすめランキング](../cordless-vacuum-ranking/)
 - [ロボット掃除機おすすめランキング](../robot-vacuum-ranking/)
-- [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
+- [スマートプラグおすすめランキング](../smart-plug-ranking/)
 - [電動歯ブラシおすすめランキング](../electric-toothbrush-ranking/)
