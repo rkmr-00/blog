@@ -69,7 +69,7 @@ faq:
 | 静音 | 19dB（超静音） |
 | フィルター交換 | 10年に1回 |
 
-{{< amazon id="B0CGXHNCJM" title="シャープ KC-L71 プラズマクラスター 加湿空気清浄機 31畳" >}}
+{{< amazon id="B0DP2K324K" title="シャープ KI-TX70 プラズマクラスターNEXT 空気清浄機" >}}
 
 ---
 
@@ -88,7 +88,7 @@ faq:
 | 除去性能 | 0.1μm以上の粒子を99.95%除去 |
 | スマートアプリ | ○（空気質リアルタイム確認） |
 
-{{< amazon id="B0BFY5LB1K" title="Dyson Purifier Hot+Cool 空気清浄ファンヒーター" >}}
+{{< amazon id="B0F4KD95ZQ" title="Dyson Purifier Hot+Cool Gen1 空気清浄ファンヒーター" >}}
 
 ---
 
@@ -107,7 +107,7 @@ faq:
 | フィルター | HEPAフィルター |
 | 強み | 脱臭性能 |
 
-{{< amazon id="B0CF2JZ7JQ" title="ダイキン MCK504A 加湿ストリーマ空気清浄機 25畳" >}}
+{{< amazon id="B0CJDRPFY3" title="ダイキン MCK504A 加湿ストリーマ空気清浄機 25畳" >}}
 
 ---
 
@@ -119,7 +119,7 @@ faq:
 
 適用畳数は40畳対応の大容量で、LDKなど広い空間をカバーできます。
 
-{{< amazon id="B0C9BSSP47" title="パナソニック F-VXS90 ナノイーX 加湿空気清浄機 40畳" >}}
+{{< amazon id="B08JY5N2RN" title="パナソニック F-VXT90 ナノイーX 加湿空気清浄機 40畳" >}}
 
 ---
 
@@ -129,7 +129,7 @@ faq:
 
 スウェーデン発の空気清浄機専業メーカーBlueairのハイブリッドフィルターは**HEPAと活性炭を組み合わせ**、微粒子と臭いを同時除去。シンプルなデザインと直感的な操作でどんな部屋にもなじみます。
 
-{{< amazon id="B0CF8DKH5Q" title="Blueair Blue Max 3250i 空気清浄機 HEPAフィルター" >}}
+{{< amazon id="B08KPHZWHL" title="Blueair Blue Max 3250i 空気清浄機 HEPAフィルター" >}}
 
 ---
 
@@ -178,9 +178,9 @@ A. 静音モード（弱運転）で24時間使用した場合、月100〜300円
 
 加湿機能付きを選べば季節を問わず活躍し、長期的にコスパが高いです。
 
-{{< amazon id="B0CGXHNCJM" title="シャープ KC-L71（総合おすすめ1位）" >}}
+{{< amazon id="B0DP2K324K" title="シャープ KI-TX70（総合おすすめ1位）" >}}
 
-{{< amazon id="B0CF2JZ7JQ" title="ダイキン MCK504A（脱臭・ペット臭おすすめ）" >}}
+{{< amazon id="B0CJDRPFY3" title="ダイキン MCK504A（脱臭・ペット臭おすすめ）" >}}
 
 ---
 

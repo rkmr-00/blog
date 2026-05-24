@@ -1,11 +1,14 @@
-<div class="amazon-box">
+<div class="amazon-card">
   <a href="https://www.amazon.co.jp/dp/{{ .Get "id" }}/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener">
-    <div class="amazon-inner">
-      <div class="amazon-logo">Amazon</div>
-      <div class="amazon-product">
-        <span class="amazon-title">{{ .Get "title" }}</span>
-        <span class="amazon-cta">Amazonで詳細・価格を見る →</span>
-      </div>
+    {{ if .Get "image" }}
+    <div class="amazon-card-image">
+      <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
+    </div>
+    {{ end }}
+    <div class="amazon-card-body">
+      <div class="amazon-card-badge">Amazon</div>
+      <p class="amazon-card-title">{{ .Get "title" }}</p>
+      <div class="amazon-card-btn">Amazonで詳細・価格を見る →</div>
     </div>
   </a>
 </div>

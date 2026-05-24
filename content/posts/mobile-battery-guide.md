@@ -55,7 +55,7 @@ faq:
 
 モバイルバッテリーとACアダプターが一体化した**革命的デザイン**。10,000mAhの容量と65Wの急速充電に対応しながら、コンパクトで非常に使いやすい。出張・旅行の必携アイテムです。
 
-{{< amazon id="B09VPHVT2Z" title="Anker 733 Power Bank GaNPrime PowerCore 65W" >}}
+{{< amazon id="B0DT4RGDSJ" title="Anker Power Bank 25000mAh 165W 巻取りUSB-Cケーブル付き" >}}
 
 ---
 
@@ -65,7 +65,7 @@ faq:
 
 24,000mAhの大容量で**140Wの超高出力**。MacBook Pro 16インチにも対応できる珍しいモバイルバッテリー。スマホなら約5〜6回、ノートPCも1回以上充電可能です。
 
-{{< amazon id="B0BJ8JZZXF" title="Anker 737 Power Bank 24000mAh 140W急速充電" >}}
+{{< amazon id="B0FKN98246" title="Anker Prime Power Bank 26250mAh 300W大容量" >}}
 
 ---
 
@@ -75,7 +75,7 @@ faq:
 
 20,000mAhありながら**厚さ14.5mmのスリムデザイン**が特徴の国内メーカー製品。バッグに入れても邪魔にならず、ビジネスパーソンに人気があります。
 
-{{< amazon id="B0BMWM9ZMK" title="CIO SMARTCOBY PRO SLIM 20000mAh 65W薄型モバイルバッテリー" >}}
+{{< amazon id="B0C3GTMX5M" title="UGREEN 100W モバイルバッテリー 20000mAh 薄型 USB-C 大容量" >}}
 
 ---
 
@@ -83,7 +83,7 @@ faq:
 
 緊急充電用として財布に入るほど**超小型**。5,000mAhでスマホ約1回分。急速充電不要で軽さを最優先したい方に。
 
-{{< amazon id="B09B3NLRZ5" title="Anker 511 Power Bank 5000mAh コンパクト" >}}
+{{< amazon id="B0B4GVLW6D" title="Anker 521 Power Bank 5000mAh 45W USB-C 充電器一体型" >}}
 
 ---
 
@@ -91,7 +91,7 @@ faq:
 
 Ankerに並ぶコスパブランドのBaseus製。20,000mAhで65W対応しながら**価格は控えめ**。コスト重視で選ぶならこれ。
 
-{{< amazon id="B09TTHKMM2" title="Baseus モバイルバッテリー 20000mAh 65W急速充電" >}}
+{{< amazon id="B0FHHNTC1J" title="UGREEN 67W モバイルバッテリー 20000mAh USB-C 急速充電" >}}
 
 ---
 
@@ -115,7 +115,7 @@ Ankerに並ぶコスパブランドのBaseus製。20,000mAhで65W対応しなが
 
 普段使いの9割の人には**Anker 733**で十分です。コンセント一体型で出張・旅行でも荷物が一つ減り、使い勝手が抜群です。
 
-{{< amazon id="B09VPHVT2Z" title="Anker 733 Power Bank（総合おすすめ1位）" >}}
+{{< amazon id="B0DT4RGDSJ" title="Anker Power Bank 25000mAh 165W（総合おすすめ1位）" >}}
 
 ---
 
