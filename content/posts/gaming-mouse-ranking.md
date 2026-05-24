@@ -5,9 +5,6 @@ draft: false
 categories: ["ranking"]
 tags: ["ゲーミングマウス", "マウス", "Logicool", "Razer", "FPS", "おすすめ", "ランキング"]
 description: "2026年最新ゲーミングマウスおすすめランキング。LogicoolG Pro・Razer DeathAdder・SteelSeriesなど人気モデルをDPI・クリック精度・重量・バッテリーで比較。FPS・MOBA・MMO用途別に厳選しました。"
-cover:
-  image: ""
-  alt: "ゲーミングマウスおすすめランキング2026"
 faq:
   - q: "プロゲーマーが軽いマウスを使う理由は？"
     a: "軽量マウスは素早いエイム移動（フリックショット）でも疲れにくく、長時間プレイでも手の疲労が少ないためです。60g以下が現在の主流になっています。"

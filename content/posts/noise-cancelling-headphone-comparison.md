@@ -1,13 +1,10 @@
----
-title: "【2026年】ノイズキャンセリングヘッドホンおすすめ比較｜Sony・Bose・Appleを徹底検証"
+﻿---
+title: "【2026年最新】ノイズキャンセリングヘッドホンおすすめ比較｜Sony・Bose・Appleを徹底検証"
 date: 2026-05-23
 draft: false
 categories: ["comparison", "ranking"]
 tags: ["ノイズキャンセリング", "ヘッドホン", "Sony", "Bose", "ANC", "比較", "おすすめ"]
 description: "2026年最新ノイズキャンセリングヘッドホン比較。SonyWH-1000XM5・Bose QC45・Apple AirPods Maxなど人気モデルをノイズキャンセリング性能・音質・装着感・バッテリーで比較しました。"
-cover:
-  image: ""
-  alt: "ノイズキャンセリングヘッドホン比較2026"
 faq:
   - q: "イヤホンとヘッドホン、ANCはどちらが強い？"
     a: "物理的にドライバーが大きく耳全体を覆うヘッドホンの方がANC性能は高い傾向があります。ただし最新のSony WF-1000XM5などはヘッドホン並みのANC性能を実現しています。"

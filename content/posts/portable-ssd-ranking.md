@@ -5,9 +5,6 @@ draft: false
 categories: ["ranking"]
 tags: ["ポータブルSSD", "外付けSSD", "Samsung", "WD", "おすすめ", "ランキング"]
 description: "2026年最新ポータブルSSDおすすめランキング。Samsung T7・WD My Passport・Crucial X8など人気モデルをデータ転送速度・容量・耐久性・価格で徹底比較。動画編集・写真保存・バックアップ用途別に厳選しました。"
-cover:
-  image: ""
-  alt: "ポータブルSSDおすすめランキング2026"
 faq:
   - q: "USBとThunderboltの違いは何？どちらを選べばいい？"
     a: "Thunderbolt 3/4はIntel規格で最大40Gbpsの超高速転送が可能ですが、対応機器（主にMacBook・一部のWindowsPC）が必要です。USB 3.2 Gen2（10Gbps）は対応機器が多く、4K動画編集にも十分対応できます。"

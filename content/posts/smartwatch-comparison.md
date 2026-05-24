@@ -1,5 +1,5 @@
----
-title: "【2026年】Apple Watch vs Galaxy Watch vs Pixel Watch｜スマートウォッチ3大ブランド比較"
+﻿---
+title: "【2026年最新】Apple Watch vs Galaxy Watch vs Pixel Watch｜スマートウォッチ3大ブランド比較"
 date: 2026-05-23
 draft: false
 categories: ["comparison"]

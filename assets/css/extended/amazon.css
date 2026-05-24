@@ -94,3 +94,36 @@
   max-height: 110px;
   object-fit: contain;
 }
+
+/* ダークモード対応 */
+.dark .amazon-card {
+  background: #1a1a1a;
+  border-color: #444;
+  color: #e0e0e0;
+}
+
+.dark .amazon-card-title {
+  color: #e0e0e0;
+}
+
+.dark .amazon-card-price {
+  color: #e0e0e0;
+}
+
+.dark .amazon-card-domain {
+  color: #6ea8d8;
+}
+
+.dark .amazon-card-image {
+  background: #2a2a2a;
+  border-color: #555;
+}
+
+.dark .amazon-card-btn {
+  background: #f90;
+  color: #111;
+}
+
+.dark .amazon-card > a:hover .amazon-card-btn {
+  background: #e68a00;
+}
