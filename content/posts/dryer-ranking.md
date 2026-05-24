@@ -219,3 +219,4 @@ A. 速乾性を重視するなら高風速モデルがおすすめです。Dyson
 - [電動歯ブラシおすすめランキング](../electric-toothbrush-ranking/)
 - [空気清浄機おすすめランキング](../air-purifier-ranking/)
 - [ワイヤレス充電器おすすめランキング](../wireless-charger-ranking/)
+- [冷蔵庫おすすめランキング](../refrigerator-ranking/)

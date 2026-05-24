@@ -241,6 +241,7 @@ A. PS5・Xbox Series XでHDMI 2.1を使うと4K 120Hz入力が可能になり、
 
 ## あわせて読みたい
 
+- [ホームシアタースピーカーおすすめランキング](../home-theater-speaker-ranking/)
 - [モニターおすすめランキング](../monitor-ranking/)
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
 - [ゲーミングヘッドセットおすすめランキング](../gaming-headset-ranking/)

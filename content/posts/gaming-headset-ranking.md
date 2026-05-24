@@ -244,5 +244,5 @@ A. USB接続またはUSBドングル（2.4GHz）対応モデルであれば、PS
 ## あわせて読みたい
 
 - [ゲーミングマウスおすすめランキング](../gaming-mouse-ranking/)
-- [ワイヤレスイヤホンおすすめランキング](../wireless-earphone-ranking/)
+- [ゲーミングチェアおすすめランキング](../gaming-chair-ranking/)
 - [ノイズキャンセリングヘッドホン比較](../noise-cancelling-headphone-comparison/)

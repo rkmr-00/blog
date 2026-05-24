@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（31本）
+## 現在の記事一覧（32本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -39,13 +39,13 @@
 | `wired-earphone-ranking.md` | 有線イヤホン ランキング10選（高音質・コスパ・SHURE・final比較） | ranking |
 | `smartwatch-comparison.md` | Apple Watch vs Galaxy Watch vs Pixel Watch 3ブランド比較 | comparison |
 | `home-theater-speaker-ranking.md` | ホームシアタースピーカー ランキング8選（Sonos・Bose・JBL・ヤマハ比較） | ranking |
+| `refrigerator-ranking.md` | 冷蔵庫おすすめランキング10選（パナソニック・日立・三菱 容量別比較） | ranking |
 
 ---
 
 ## 次に書くべき記事（優先順）
 
-1. 冷蔵庫おすすめランキング（Panasonic・日立・三菱比較）
-2. 洗濯機おすすめランキング（縦型・ドラム式・乾燥機能比較）
+1. 洗濯機おすすめランキング（縦型・ドラム式・乾燥機能比較）
 3. ゲーミングPC周辺機器まとめ（デスク環境セット提案記事）
 4. ウォーターサーバーおすすめランキング
 5. 加湿器おすすめランキング（シャープ・パナソニック比較）
