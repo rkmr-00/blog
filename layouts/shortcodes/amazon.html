@@ -9,11 +9,13 @@
         {{ end }}
         <div class="amazon-card-btn">Amazon.co.jpで購入する</div>
       </div>
-      {{ if .Get "image" }}
       <div class="amazon-card-image">
+        {{ if .Get "image" }}
         <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
+        {{ else }}
+        <img src="https://images-na.ssl-images-amazon.com/images/P/{{ .Get "id" }}.01._SL200_.jpg" alt="{{ .Get "title" }}" loading="lazy">
+        {{ end }}
       </div>
-      {{ end }}
     </div>
   </a>
 </div>
