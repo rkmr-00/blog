@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（32本）
+## 現在の記事一覧（33本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -40,6 +40,7 @@
 | `smartwatch-comparison.md` | Apple Watch vs Galaxy Watch vs Pixel Watch 3ブランド比較 | comparison |
 | `home-theater-speaker-ranking.md` | ホームシアタースピーカー ランキング8選（Sonos・Bose・JBL・ヤマハ比較） | ranking |
 | `refrigerator-ranking.md` | 冷蔵庫おすすめランキング10選（パナソニック・日立・三菱 容量別比較） | ranking |
+| `washing-machine-ranking.md` | 洗濯機おすすめランキング10選（ドラム式・縦型・一人暮らし向け比較） | ranking |
 
 ---
 
