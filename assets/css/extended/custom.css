@@ -15,6 +15,139 @@
   --border-light: #e8e8e8;
 }
 
+/* ===================================================
+   ヘッダー・ナビゲーション
+   =================================================== */
+
+/* ヘッダー全体：ダーク背景 + オレンジ下線 */
+.header {
+  background: #111 !important;
+  border-bottom: 3px solid #FF9900;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+
+/* ロゴテキスト */
+.logo a {
+  font-weight: 900 !important;
+  font-size: 1.05rem !important;
+  color: #fff !important;
+  letter-spacing: -0.01em;
+  text-decoration: none !important;
+}
+
+/* ロゴの前にアクセントアイコン */
+.logo a::before {
+  content: "⚡";
+  color: #FF9900;
+  margin-right: 5px;
+  font-style: normal;
+}
+
+/* ナビメニューリンク */
+#menu a {
+  color: #ccc !important;
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 4px 2px;
+  border-bottom: 2px solid transparent;
+  transition: color 0.18s, border-color 0.18s;
+  text-decoration: none !important;
+}
+
+#menu a:hover,
+#menu a:focus {
+  color: #FF9900 !important;
+  border-bottom-color: #FF9900;
+}
+
+/* アクティブなメニュー項目 */
+#menu a span.active {
+  color: #FF9900 !important;
+  border-bottom: 2px solid #FF9900;
+  padding-bottom: 2px;
+}
+
+/* テーマ切り替えボタン（月・太陽アイコン） */
+.theme-toggle svg {
+  stroke: #ccc !important;
+}
+
+.theme-toggle:hover svg {
+  stroke: #FF9900 !important;
+}
+
+/* ===================================================
+   ホームページ ヒーローセクション
+   =================================================== */
+
+.home-info {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%) !important;
+  border-radius: 12px !important;
+  border: 1px solid #333 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
+  padding: 2.2rem 2.5rem !important;
+}
+
+.home-info .entry-header h1 {
+  color: #fff !important;
+  font-size: 1.55rem !important;
+  font-weight: 900 !important;
+  line-height: 1.4 !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.home-info .entry-header h1::before {
+  content: "⚡ ";
+  color: #FF9900;
+}
+
+.home-info .entry-content p {
+  color: #bbb !important;
+  font-size: 0.95rem !important;
+  line-height: 1.7 !important;
+  margin: 0 !important;
+}
+
+.home-info .entry-content strong {
+  color: #fff !important;
+}
+
+/* ヒーローのRSSアイコンエリア */
+.home-info .entry-footer {
+  margin-top: 1.2rem;
+}
+
+.home-info .entry-footer a svg {
+  color: #888 !important;
+}
+
+/* ===================================================
+   記事一覧カード
+   =================================================== */
+
+.post-entry {
+  border-radius: 10px !important;
+  border: 1px solid var(--border-light) !important;
+  transition: box-shadow 0.2s, transform 0.2s !important;
+  overflow: hidden;
+}
+
+.post-entry:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.10) !important;
+  transform: translateY(-2px) !important;
+  border-color: #FF9900 !important;
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.05rem !important;
+  font-weight: 800 !important;
+  line-height: 1.5 !important;
+}
+
+/* ===================================================
+   記事本文エリア全体
+   =================================================== */
+
 /* --- 記事本文エリア全体 --- */
 .post-content {
   font-size: 1.02rem;
