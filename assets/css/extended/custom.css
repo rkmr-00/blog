@@ -600,3 +600,120 @@
 .dark #TableOfContents a {
   color: #aaa;
 }
+
+/* ===================================================
+   ホームページ 人気TOP3クイックピック
+   =================================================== */
+
+.home-top3-section {
+  background: linear-gradient(135deg, #fffbf0 0%, #fff8e6 100%);
+  border: 2px solid #FF9900;
+  border-radius: 12px;
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.home-top3-label {
+  font-size: 0.72rem;
+  color: #e8700a;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 0.3rem;
+}
+
+.home-top3-title {
+  font-size: 1.05rem;
+  font-weight: 900;
+  color: #111;
+  margin: 0 0 1rem;
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+.home-top3-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.home-top3-item {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 0.7rem 1rem;
+  text-decoration: none !important;
+  color: #111 !important;
+  transition: border-color 0.18s, box-shadow 0.18s, transform 0.15s;
+}
+
+.home-top3-item:hover {
+  border-color: #FF9900;
+  box-shadow: 0 3px 10px rgba(255, 153, 0, 0.2);
+  transform: translateX(3px);
+}
+
+.home-top3-rank {
+  font-size: 1.35rem;
+  font-weight: 900;
+  min-width: 2rem;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.home-top3-rank.rank-gold   { color: #D4AF37; }
+.home-top3-rank.rank-silver { color: #A8A9AD; }
+.home-top3-rank.rank-bronze { color: #CD7F32; }
+
+.home-top3-text {
+  flex: 1;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.home-top3-arrow {
+  font-size: 1rem;
+  color: #FF9900;
+  font-weight: 900;
+  flex-shrink: 0;
+}
+
+/* ダークモード */
+.dark .home-top3-section {
+  background: linear-gradient(135deg, #1e1c14 0%, #1a1a1a 100%);
+  border-color: #FF9900;
+}
+
+.dark .home-top3-title {
+  color: #e0e0e0;
+}
+
+.dark .home-top3-item {
+  background: #222;
+  border-color: #333;
+  color: #e0e0e0 !important;
+}
+
+.dark .home-top3-item:hover {
+  border-color: #FF9900;
+  box-shadow: 0 3px 10px rgba(255, 153, 0, 0.15);
+}
+
+.dark .home-top3-text {
+  color: #e0e0e0;
+}
+
+@media (max-width: 479px) {
+  .home-top3-section {
+    padding: 1.1rem 1rem;
+  }
+
+  .home-top3-item {
+    padding: 0.65rem 0.8rem;
+  }
+}

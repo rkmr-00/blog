@@ -51,6 +51,31 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+{{/* 人気記事TOP3クイックピック（ホームページ1ページ目のみ） */}}
+{{- if and .IsHome (eq $paginator.PageNumber 1) }}
+<div class="home-top3-section">
+  <p class="home-top3-label">編集部ピックアップ</p>
+  <h2 class="home-top3-title">今週の人気ランキング TOP3</h2>
+  <div class="home-top3-list">
+    <a href="{{ "/posts/wireless-earphone-ranking/" | relURL }}" class="home-top3-item">
+      <span class="home-top3-rank rank-gold">1</span>
+      <span class="home-top3-text">ワイヤレスイヤホン おすすめランキング</span>
+      <span class="home-top3-arrow">→</span>
+    </a>
+    <a href="{{ "/posts/electric-bicycle-ranking/" | relURL }}" class="home-top3-item">
+      <span class="home-top3-rank rank-silver">2</span>
+      <span class="home-top3-text">電動自転車 おすすめランキング</span>
+      <span class="home-top3-arrow">→</span>
+    </a>
+    <a href="{{ "/posts/robot-vacuum-ranking/" | relURL }}" class="home-top3-item">
+      <span class="home-top3-rank rank-bronze">3</span>
+      <span class="home-top3-text">ロボット掃除機 おすすめランキング</span>
+      <span class="home-top3-arrow">→</span>
+    </a>
+  </div>
+</div>
+{{- end }}
+
 {{/* カテゴリグリッド（ホームページ1ページ目のみ表示） */}}
 {{- if and .IsHome (eq $paginator.PageNumber 1) }}
 <div class="category-grid-section">

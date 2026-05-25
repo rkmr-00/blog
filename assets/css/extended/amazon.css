@@ -435,7 +435,16 @@
 
   .quick-pick-btn {
     align-self: flex-end;
-    font-size: 0.82rem;
-    padding: 0.4rem 0.9rem;
+    font-size: 0.88rem;
+    padding: 0.6rem 1.2rem;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .amazon-card-btn {
+    padding: 1rem 1rem;
+    font-size: 1.05rem;
   }
 }

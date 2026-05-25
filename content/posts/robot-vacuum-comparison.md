@@ -130,27 +130,27 @@ Apple HomeKitで統一管理したいiPhoneユーザーは**Roomba**が最も連
 
 ## 各ブランド代表モデル
 
-### ロボロック S8 Pro Ultra（総合最強）
+### ロボロック（総合最強・水拭き一体型）
 
-マッピング・吸引・水拭き・全自動ステーション（洗浄・乾燥）を完備した現在最も完成度の高いロボット掃除機。「ゴミ捨て・モップ洗浄・水補給を全部自動にしたい」人の最終到達点です。
+マッピング・吸引・水拭き・全自動ステーション（洗浄・乾燥）を完備。LiDARセンサーで暗い部屋でも高精度マップを作成し、「ゴミ捨て・モップ洗浄・水補給を全部自動にしたい」人の最終到達点です。
 
-{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 見守りカメラ 水拭き" >}}
-
----
-
-### Eufy X10 Pro Omni（コスパ最強全自動）
-
-ロボロックS8 Pro Ultraに近い機能を**より安価に**実現するコスパモンスター。全自動ステーション・高吸引力・AI障害物回避を10万円以内で手に入れられる現在最強のコスパモデルです。
-
-{{< amazon id="B07MH4J8QZ" title="Eufy RoboVac 15C ロボット掃除機 アプリ対応 強力吸引" >}}
+{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 水拭き LiDARセンサー搭載" badge="Roborock人気モデル" campaign="🤖 水拭き×吸引の全自動モデル" >}}
 
 ---
 
-### Roomba j9+（Apple HomeKit・障害物回避最高精度）
+### Eufy（コスパ最強・全自動ステーション）
 
-18種類の物体認識AIとClean Baseステーションを搭載。Matter/Apple HomeKit連携が最も洗練されており、iPhoneエコシステムで完結したスマートホームを作りたい人の最良選択肢。
+高吸引力・AI障害物回避・全自動ステーションを10万円以内で実現するコスパモンスター。Ankerグループの品質管理と価格競争力を両立したシリーズです。
 
-{{< amazon id="B07NZJ4MNS" title="ルンバ i7+ ロボット掃除機 iRobot カーペット 自動ゴミ収集" >}}
+{{< amazon id="B07MH4J8QZ" title="Eufy RoboVac ロボット掃除機 アプリ対応 強力吸引" badge="コスパ最強" campaign="💰 高機能を手頃な価格で" >}}
+
+---
+
+### ルンバ（iRobot・Apple HomeKit連携）
+
+18種類の物体認識AIとClean Baseステーションを搭載。Matter/Apple HomeKit連携が最も洗練されており、iPhoneエコシステムで完結したスマートホームを作りたい人の最良選択肢です。
+
+{{< amazon id="B07NZJ4MNS" title="ルンバ i7+ ロボット掃除機 iRobot 自動ゴミ収集" badge="iRobot公式" campaign="🍎 Apple HomeKit対応" >}}
 
 ---
 
@@ -161,12 +161,13 @@ Apple HomeKitで統一管理したいiPhoneユーザーは**Roomba**が最も連
 - **Apple連携・信頼ブランド** → **Roomba j9+**（iPhoneユーザー最適）
 - **まずお試し・予算を抑えたい** → ランキング記事の中価格帯モデル参照
 
-{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV（総合おすすめNo.1）" >}}
+{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV（総合おすすめNo.1）" badge="編集部イチオシ" campaign="🏆 総合最強モデル・今すぐチェック" >}}
 
 ---
 
 ## あわせて読みたい
 
 - [ロボット掃除機おすすめランキング](../robot-vacuum-ranking/)
+- [洗濯機おすすめランキング](../washing-machine-ranking/)
 - [空気清浄機おすすめランキング](../air-purifier-ranking/)
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
