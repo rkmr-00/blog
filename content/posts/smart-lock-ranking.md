@@ -235,5 +235,6 @@ A. 製品によって異なりますが、多くのモデルで4〜6ヶ月程度
 ## あわせて読みたい
 
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
+- [スマートプラグおすすめランキング](../smart-plug-ranking/)
 - [ワイヤレス充電器おすすめランキング](../wireless-charger-ranking/)
 - [タブレットおすすめランキング](../tablet-ranking/)

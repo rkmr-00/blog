@@ -419,6 +419,7 @@ A. 決算セールが集中する3月・9月と、新モデル発売前の8〜10
 
 ## あわせて読みたい
 
+- [ウォーターサーバーおすすめランキング8選｜コスパ・天然水・浄水型比較](../water-server-ranking/)
 - [洗濯機おすすめランキング](../washing-machine-ranking/)
 - [コードレス掃除機おすすめランキング](../cordless-vacuum-ranking/)
 - [電動歯ブラシおすすめランキング](../electric-toothbrush-ranking/)

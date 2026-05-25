@@ -217,6 +217,7 @@ A. プラグ形状（A型）と電圧（100V）が対応していれば使えま
 
 ## あわせて読みたい
 
+- [扇風機・サーキュレーターおすすめランキング10選｜節電・エアコン効率化](../fan-circulator-ranking/)
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
 - [スマートロックおすすめランキング](../smart-lock-ranking/)
 - [ワイヤレス充電器おすすめランキング](../wireless-charger-ranking/)
