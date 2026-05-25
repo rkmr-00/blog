@@ -146,17 +146,18 @@
   border-top: 1px solid #f0f0f0;
 }
 
-/* === 緊急性テキスト（赤バッジスタイル） === */
+/* === 在庫・価格変動テキスト（情報的・穏やかなトーン） === */
 .amazon-card-urgency {
   font-size: 0.75rem;
-  color: #fff;
-  background: linear-gradient(90deg, #c0392b, #e74c3c);
+  color: #666;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
   margin: 0.4rem 0 0;
   padding: 4px 10px;
   border-radius: 4px;
   text-align: center;
-  font-weight: 700;
-  letter-spacing: 0.03em;
+  font-weight: 400;
+  letter-spacing: 0.02em;
 }
 
 /* === クイックピックボタン パルスアニメーション === */
@@ -334,8 +335,9 @@
 }
 
 .dark .amazon-card-urgency {
-  background: linear-gradient(90deg, #a93226, #c0392b);
-  color: #fff;
+  background: #2a2a2a;
+  border-color: #444;
+  color: #aaa;
 }
 
 .dark .rank-card.rank-1::before {
