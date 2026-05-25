@@ -1,6 +1,6 @@
 baseURL = "https://rkmr-00.github.io/blog/"
 locale = "ja"
-title = "ガジェットレビューラボ"
+title = "GadgetReviewLab"
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
@@ -12,13 +12,13 @@ paginate = 10
 
 [params]
   env = "production"
-  title = "ガジェットレビューラボ"
+  title = "GadgetReviewLab"
   description = "スマホ・PC・家電を実際に使ってレビュー。最新ガジェットのおすすめランキングや比較記事で、後悔しない買い物をサポートします。"
   keywords = ["ガジェット", "家電", "レビュー", "おすすめ", "比較", "ランキング"]
   author = "ガジェットラボ編集部"
   DateFormat = "2006年1月2日"
-  defaultTheme = "auto"
-  disableThemeToggle = false
+  defaultTheme = "light"
+  disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -48,11 +48,6 @@ paginate = 10
     name = "ランキング"
     url = "/categories/ranking/"
     weight = 10
-  [[menu.main]]
-    identifier = "review"
-    name = "レビュー"
-    url = "/categories/review/"
-    weight = 20
   [[menu.main]]
     identifier = "comparison"
     name = "比較"

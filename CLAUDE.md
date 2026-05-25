@@ -1,4 +1,4 @@
-# ガジェットレビューラボ — Claude向け運営ガイド
+# GadgetReviewLab — Claude向け運営ガイド
 
 > **Claudeへ：** セッション開始時にまずここを読む。終了前に必ずここを更新してコミット。
 > 詳細ルールは [docs/content-guide.md](docs/content-guide.md)、記事一覧は [docs/articles.md](docs/articles.md) を参照。
