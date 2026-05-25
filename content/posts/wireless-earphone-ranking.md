@@ -78,7 +78,7 @@ Sony の最高峰ANCイヤホン。業界トップクラスのノイズキャン
 
 ---
 
-### 🥈 第2位：Apple AirPods Pro（第2世代）（iPhoneユーザーならベスト）
+### 🥈 第2位：Apple AirPods Pro（第3世代）（iPhoneユーザーならベスト）
 
 **こんな人におすすめ：** iPhoneやMacをメインで使っているAppleユーザー
 
@@ -124,7 +124,7 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 
 **向かない人：** LDACなどハイレゾコーデック非対応のため、高音質コーデックを求める方はソニーを選ぶとよいでしょう。
 
-{{< amazon id="B0DBQPRZMJ" title="Bose QuietComfort Earbuds 完全ワイヤレスイヤホン ノイズキャンセリング" >}}
+{{< amazon id="B0DBQPRZMJ" title="Bose QuietComfort Earbuds 完全ワイヤレスイヤホン ノイズキャンセリング" badge="音楽没入・出張向け" reviews="★4.3 レビュー1,100件以上（2026年5月調査時点）" price="参考価格 約25,000〜30,000円前後" reason="Boseの豊かな低音とANCで飛行機・新幹線の騒音を完全シャットアウト。出張族に愛用されるモデルです。" >}}
 
 ---
 
@@ -136,7 +136,7 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 
 **向かない人：** ハイレゾ（LDAC）非対応のため、音質最優先の方はWF-1000XM5を検討してください。
 
-{{< amazon id="B0BZGTFF9L" title="ソニー WF-C700N ワイヤレスイヤホン ノイズキャンセリング" >}}
+{{< amazon id="B0BZGTFF9L" title="ソニー WF-C700N ワイヤレスイヤホン ノイズキャンセリング" badge="テレワーク・軽量派" reviews="★4.3 レビュー900件以上（2026年5月調査時点）" price="参考価格 約12,000〜15,000円前後" reason="片耳4.7gの軽さで一日中快適。ソニー品質のANCとマイクで、テレワーク民のコスパ最強モデルです。" >}}
 
 ---
 
@@ -168,8 +168,8 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 
 | 用途 | おすすめ機種 |
 |------|------------|
-| **通勤・電車** | Sony WF-1000XM5 / AirPods Pro 2 |
-| **テレワーク** | LinkBuds S / AirPods Pro 2 |
+| **通勤・電車** | Sony WF-1000XM5 / AirPods Pro 3 |
+| **テレワーク** | ソニー WF-C700N / AirPods Pro 3 |
 | **運動・スポーツ** | Bose QuietComfort Earbuds |
 | **コスパ重視** | Anker Liberty 5 |
 | **音楽鑑賞（ハイレゾ）** | Sony WF-1000XM5 |
@@ -179,7 +179,7 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 ワイヤレスイヤホン選びで最も重要なのは**用途と予算を明確にすること**です。
 
 - **ANCが必要で予算がある** → Sony WF-1000XM5
-- **iPhoneメイン** → AirPods Pro 2
+- **iPhoneメイン** → AirPods Pro 3
 - **コスパ優先** → Anker Liberty 5
 - **スポーツ向け** → Bose QuietComfort Earbuds
 
