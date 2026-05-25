@@ -67,11 +67,11 @@
   width: 100%;
   box-sizing: border-box;
   background: linear-gradient(180deg, #FFB84D 0%, #FF9900 100%);
-  color: #111;
-  font-weight: bold;
-  font-size: 0.95rem;
+  color: #000;
+  font-weight: 900;
+  font-size: 1rem;
   text-align: center;
-  padding: 0.75rem 1rem;
+  padding: 0.9rem 1rem;
   border-radius: 20px;
   border: 1px solid #e47911;
   margin-top: 0.35rem;
@@ -382,6 +382,21 @@
 
 .dark .quick-picks-title {
   color: #e0e0e0;
+}
+
+/* === タブレット対応（480〜767px） === */
+@media (min-width: 480px) and (max-width: 767px) {
+  .amazon-card-image {
+    width: 140px;
+  }
+
+  .amazon-card-image img {
+    max-height: 120px;
+  }
+
+  .quick-picks-list li {
+    flex-wrap: wrap;
+  }
 }
 
 /* === モバイル対応（480px以下） === */
