@@ -167,7 +167,9 @@ Apple HomeKitで統一管理したいiPhoneユーザーは**Roomba**が最も連
 
 ## あわせて読みたい
 
+- [掃除機おすすめランキング10選｜スティック型・キャニスター型・ロボット掃除機を比較](../vacuum-cleaner-ranking/)
 - [ロボット掃除機おすすめランキング](../robot-vacuum-ranking/)
+- [コードレス掃除機おすすめランキング](../cordless-vacuum-ranking/)
 - [洗濯機おすすめランキング](../washing-machine-ranking/)
 - [空気清浄機おすすめランキング](../air-purifier-ranking/)
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)

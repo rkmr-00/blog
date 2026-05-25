@@ -5,37 +5,47 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-26 セッション6）
+## セッション引き継ぎ（最終更新: 2026-05-26 セッション7）
 
 ### 現在の状態スナップショット
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **36本**（posts/配下） |
+| 記事数 | **38本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ❌ 未設定 |
-| 最終デプロイ | 2026-05-26（PV増加施策：新記事2本追加・内部リンク強化） |
+| 最終デプロイ | 2026-05-26（新記事2本追加・内部リンク8記事強化） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全36本が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全38本が収益化開始 |
 | 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
-| 🟡 中 | 加湿器おすすめランキング記事追加 | 秋冬に向けて早めに準備（先行インデックス狙い） |
+| 🟡 中 | プロジェクターおすすめランキング記事追加 | ホームシアター需要・高単価アフィリエイト |
+| 🟡 中 | ヘアアイロンおすすめランキング記事追加 | 女性ユーザー獲得・Dyson等高単価商品 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-26 セッション6）
+### 直近セッションで実施したこと（2026-05-26 セッション7）
 
-- PV増加施策を自律実施（内部リンク強化・新記事2本追加）
-- **内部リンク整備**：gaming-setup-guide へのリンクをgaming-mouse/headset/chair/keyboardに追加（4記事）、smart-lockにsmart-plugリンク追加
-- **新記事追加①**：fan-circulator-ranking.md（扇風機・サーキュレーターランキング10選・5月タイムリー記事）
-- **新記事追加②**：water-server-ranking.md（ウォーターサーバーランキング8選・年間需要）
-- **クロスリンク整備**：新記事から/への内部リンクを air-purifier/smart-plug/electric-kettle/coffee-maker/refrigerator に追加
-- hugo.toml ホーム文言の記事数更新: 34記事→36記事
+- **新記事追加①**：humidifier-ranking.md（加湿器おすすめランキング10選・超音波/スチーム/気化式/ハイブリッド比較）
+  - ダイニチ/シャープ/象印/パナソニック×2/ダイキン/三菱重工/バルミューダ/コロナ/アイリスオーヤマ 10製品掲載
+- **新記事追加②**：vacuum-cleaner-ranking.md（掃除機おすすめランキング10選・スティック型/キャニスター型比較）
+  - Dyson V15/パナソニック/マキタ/シャープ/東芝/日立/Dyson Ball Animal 3/アイリスオーヤマ/エレクトロラックス/三菱電機 10製品掲載
+- **内部リンク強化（8記事更新）**：
+  - air-purifier → humidifier 追加
+  - fan-circulator → humidifier 追加
+  - electric-kettle → humidifier 追加
+  - water-server → humidifier 追加
+  - cordless-vacuum → vacuum-cleaner 追加
+  - robot-vacuum-ranking → vacuum-cleaner + cordless-vacuum 追加
+  - robot-vacuum-comparison → vacuum-cleaner + cordless-vacuum 追加
+  - washing-machine → vacuum-cleaner 追加
+- hugo.toml ホーム文言の記事数更新: 36記事→38記事
+- docs/articles.md の記事一覧を36本→38本に更新・次記事候補を更新
 
 ### セッション終了時のチェックリスト
 
