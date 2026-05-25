@@ -873,3 +873,114 @@
     padding: 0.65rem 0.8rem;
   }
 }
+
+/* ===================================================
+   編集部確認ボックス（checkショートコード）
+   =================================================== */
+
+.editor-check-box {
+  border: 2px solid #4caf50;
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  background: #f1f8f1;
+}
+
+.editor-check-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #2e7d32;
+  margin: 0 0 0.6rem !important;
+  padding: 0 !important;
+}
+
+.editor-check-content ul {
+  margin: 0;
+  padding-left: 1.4rem;
+}
+
+.editor-check-content li {
+  font-size: 0.88rem;
+  line-height: 1.7;
+  margin-bottom: 0.2rem;
+  color: #333;
+}
+
+.dark .editor-check-box {
+  background: #0a2a0a;
+  border-color: #388e3c;
+}
+
+.dark .editor-check-title {
+  color: #81c784;
+}
+
+.dark .editor-check-content li {
+  color: #ccc;
+}
+
+/* ===================================================
+   Amazonカード「選んだ理由」フィールド
+   =================================================== */
+
+.amazon-card-reason {
+  font-size: 0.82rem;
+  color: #555;
+  margin: 0 0 0.4rem;
+  padding: 0.5rem 0.7rem;
+  background: #fff9f0;
+  border-left: 3px solid #FF9900;
+  border-radius: 0 6px 6px 0;
+  line-height: 1.6;
+}
+
+.dark .amazon-card-reason {
+  background: #2a1e0a;
+  color: #bbb;
+  border-left-color: #FF9900;
+}
+
+/* ===================================================
+   PR・広告開示バナー（景表法対応）
+   =================================================== */
+
+.pr-disclosure-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.8rem;
+  margin: 0 0 1.2rem;
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.78rem;
+}
+
+.pr-disclosure-label {
+  flex-shrink: 0;
+  background: #555;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 0.15rem 0.45rem;
+  border-radius: 3px;
+  letter-spacing: 0.05em;
+}
+
+.pr-disclosure-text {
+  color: #666;
+  line-height: 1.4;
+}
+
+.dark .pr-disclosure-banner {
+  background: #1e1e1e;
+  border-color: #444;
+}
+
+.dark .pr-disclosure-label {
+  background: #888;
+}
+
+.dark .pr-disclosure-text {
+  color: #aaa;
+}

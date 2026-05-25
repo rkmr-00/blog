@@ -16,6 +16,9 @@
 {{- if .Get "price" }}
 <p class="amazon-card-price">{{ .Get "price" }}</p>
 {{- end }}
+{{- if .Get "reason" }}
+<p class="amazon-card-reason">💬 {{ .Get "reason" }}</p>
+{{- end }}
 <p class="amazon-card-urgency">⚠️ 人気モデルは在庫・価格が頻繁に変動します。気になった今がチェックのタイミングです。</p>
 <div class="amazon-card-btn">Amazonで最安値を確認する →</div>
 </div>
