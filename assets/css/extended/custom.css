@@ -46,18 +46,19 @@
 
 /* --- 強調テキスト（**bold**） --- */
 .post-content strong {
-  color: #c0392b;
   font-weight: 800;
 }
 
-/* --- テーブル全体 --- */
+/* --- テーブル全体（モバイル横スクロール対応） --- */
 .post-content table {
+  display: block;
   width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   font-size: 0.92rem;
   margin: 1.2rem 0;
   border-radius: 8px;
-  overflow: hidden;
   box-shadow: 0 1px 6px rgba(0,0,0,0.08);
 }
 

@@ -34,6 +34,7 @@
   flex-direction: column;
   gap: 0.3rem;
   justify-content: center;
+  min-width: 0;
 }
 
 .amazon-card-title {
@@ -62,17 +63,18 @@
 }
 
 .amazon-card-btn {
-  display: inline-block;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
   background: linear-gradient(180deg, #FFB84D 0%, #FF9900 100%);
   color: #111;
   font-weight: bold;
-  font-size: 0.84rem;
+  font-size: 0.88rem;
   text-align: center;
-  padding: 0.55rem 1.1rem;
+  padding: 0.6rem 1rem;
   border-radius: 20px;
   border: 1px solid #e47911;
   margin-top: 0.45rem;
-  width: fit-content;
   transition: filter 0.15s, box-shadow 0.15s, transform 0.15s;
   box-shadow: 0 2px 6px rgba(255, 153, 0, 0.35);
 }
@@ -80,7 +82,6 @@
 .amazon-card > a:hover .amazon-card-btn {
   filter: brightness(1.08);
   box-shadow: 0 4px 12px rgba(255, 153, 0, 0.55);
-  transform: translateY(-1px);
 }
 
 .amazon-card-image {
@@ -124,6 +125,15 @@
   letter-spacing: 0.05em;
 }
 
+/* アフィリエイト開示 */
+.amazon-card-disclosure {
+  font-size: 0.68rem;
+  color: #888;
+  text-align: right;
+  padding: 3px 8px 4px;
+  border-top: 1px solid #f0f0f0;
+}
+
 /* === ランキングカード（1〜3位の金銀銅差別化） === */
 .rank-card {
   border-left: 6px solid #ccc;
@@ -136,6 +146,7 @@
 .rank-card.rank-1 {
   border-left-color: #D4AF37;
   background: linear-gradient(135deg, #fffbea 0%, #fff 60%);
+  box-shadow: 0 0 0 2px #D4AF37, 0 4px 16px rgba(212, 175, 55, 0.15);
 }
 
 .rank-card.rank-2 {
@@ -193,7 +204,7 @@
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.55rem;
+  gap: 0.6rem;
 }
 
 .quick-picks-list li {
@@ -202,6 +213,7 @@
   gap: 0.6rem;
   font-size: 0.9rem;
   line-height: 1.4;
+  flex-wrap: wrap;
 }
 
 .quick-pick-rank {
@@ -209,11 +221,35 @@
   font-size: 1.15rem;
   min-width: 1.8rem;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .quick-picks-list li:nth-child(1) .quick-pick-rank { color: #D4AF37; }
 .quick-picks-list li:nth-child(2) .quick-pick-rank { color: #A8A9AD; }
 .quick-picks-list li:nth-child(3) .quick-pick-rank { color: #CD7F32; }
+
+.quick-pick-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.quick-pick-btn {
+  display: inline-block;
+  background: linear-gradient(180deg, #FFB84D 0%, #FF9900 100%);
+  color: #111 !important;
+  font-size: 0.78rem;
+  font-weight: bold;
+  padding: 0.3rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid #e47911;
+  text-decoration: none !important;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.quick-pick-btn:hover {
+  filter: brightness(1.08);
+}
 
 /* === ダークモード対応 === */
 .dark .amazon-card {
@@ -257,12 +293,18 @@
   background: linear-gradient(90deg, #a93226, #c0392b);
 }
 
+.dark .amazon-card-disclosure {
+  color: #666;
+  border-top-color: #333;
+}
+
 .dark .rank-card {
   background: #1e1e1e;
 }
 
 .dark .rank-card.rank-1 {
   background: linear-gradient(135deg, #2a2510 0%, #1a1a1a 60%);
+  box-shadow: 0 0 0 2px #D4AF37, 0 4px 16px rgba(212, 175, 55, 0.1);
 }
 
 .dark .rank-card.rank-2 {
