@@ -64,7 +64,7 @@ faq:
 | ゴミ収集 | 自動（2.5Lダスト袋） |
 | バッテリー | 約3時間 |
 
-{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 見守りカメラ 水拭き" >}}
+{{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 見守りカメラ 水拭き" badge="編集部ベストバイ2026" reviews="★4.4 レビュー2,100件以上（2026年5月調査時点）" price="参考価格 約50,000円前後" campaign="🤖 総合1位・今すぐ確認" >}}
 
 ---
 

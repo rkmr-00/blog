@@ -715,6 +715,12 @@
   filter: brightness(1.08);
 }
 
+.home-top3-pr {
+  font-size: 0.6rem;
+  opacity: 0.7;
+  vertical-align: super;
+}
+
 .home-top3-rank {
   font-size: 1.35rem;
   font-weight: 900;

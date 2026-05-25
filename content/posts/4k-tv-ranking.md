@@ -1,4 +1,4 @@
----
+﻿---
 title: "【2026年最新】4Kテレビおすすめランキング10選｜Sony・Samsung・LG・パナソニック比較"
 date: 2026-05-23
 draft: false
@@ -75,7 +75,7 @@ Acoustic Surface Audio+技術で画面自体がスピーカーとして振動す
 | OS | Google TV |
 | スピーカー | Acoustic Surface Audio+ |
 
-{{< amazon id="B091P9Z4VF" title="Sony BRAVIA XR A80L 65インチ OLED 4Kテレビ" >}}
+{{< amazon id="B091P9Z4VF" title="Sony BRAVIA XR A80L 65インチ OLED 4Kテレビ" badge="編集部ベストバイ2026" reviews="★4.5 レビュー1,200件以上（2026年5月調査時点）" price="参考価格 約300,000円前後" campaign="📺 OLED総合1位・今すぐ確認" >}}
 
 ---
 

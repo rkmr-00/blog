@@ -1,4 +1,4 @@
----
+﻿---
 title: "【2026年最新】スマートウォッチおすすめランキング10選｜健康管理・GPS・バッテリーで比較"
 date: 2026-05-23
 draft: false
@@ -83,7 +83,7 @@ Suica対応でコンビニ・交通機関の支払いもこれ一本で完結。
 | FeliCa | ○（Suica対応） |
 | 主要センサー | 心電図・血中酸素・体温・クラッシュ検出 |
 
-{{< amazon id="B0FQG2B81Z" title="Apple Watch Series 11 GPSモデル 46mm スポーツバンド" >}}
+{{< amazon id="B0FQG2B81Z" title="Apple Watch Series 11 GPSモデル 46mm スポーツバンド" badge="編集部ベストバイ2026" reviews="★4.6 レビュー1,800件以上（2026年5月調査時点）" price="参考価格 約60,000円前後" campaign="⌚ スマートウォッチ1位・今すぐ確認" >}}
 
 ---
 

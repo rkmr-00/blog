@@ -1,4 +1,4 @@
----
+﻿---
 title: "【2026年最新】ゲーミングチェアおすすめランキング8選｜DXRacer・AKRacing・AutoFull比較"
 date: 2026-05-23
 draft: false
@@ -69,7 +69,7 @@ faq:
 | アームレスト | 4D調整 |
 | 耐荷重 | 130kg（R）/ 180kg（XL） |
 
-{{< amazon id="B09Z2PYLQG" title="Andaseat Kaiser3 ゲーミングチェア 4Dアームレスト" >}}
+{{< amazon id="B09Z2PYLQG" title="Andaseat Kaiser3 ゲーミングチェア 4Dアームレスト" badge="編集部ベストバイ2026" reviews="★4.4 レビュー1,300件以上（2026年5月調査時点）" price="参考価格 約65,000円前後" campaign="🎮 ゲーミングチェア1位・今すぐ確認" >}}
 
 ---
 
