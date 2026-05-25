@@ -190,6 +190,71 @@
 }
 
 /* ===================================================
+   記事カード カバー画像プレースホルダー
+   =================================================== */
+
+.entry-cover-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90px;
+  gap: 0.3rem;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  background: linear-gradient(135deg, #fff5e8 0%, #ffe0b2 100%);
+}
+
+.entry-cover-placeholder.cat-ranking {
+  background: linear-gradient(135deg, #fff5e8 0%, #FFD580 100%);
+}
+
+.entry-cover-placeholder.cat-comparison {
+  background: linear-gradient(135deg, #e8f4fd 0%, #90caf9 100%);
+}
+
+.entry-cover-placeholder.cat-guide {
+  background: linear-gradient(135deg, #e8f5e9 0%, #a5d6a7 100%);
+}
+
+.entry-cover-placeholder.cat-review {
+  background: linear-gradient(135deg, #f3e5f5 0%, #ce93d8 100%);
+}
+
+.cover-placeholder-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.cover-placeholder-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #555;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.dark .entry-cover-placeholder {
+  background: linear-gradient(135deg, #2a1e0a 0%, #3a2a0e 100%);
+}
+
+.dark .entry-cover-placeholder.cat-ranking {
+  background: linear-gradient(135deg, #2a1e0a 0%, #4a3510 100%);
+}
+
+.dark .entry-cover-placeholder.cat-comparison {
+  background: linear-gradient(135deg, #0a1a2a 0%, #0d2a4a 100%);
+}
+
+.dark .entry-cover-placeholder.cat-guide {
+  background: linear-gradient(135deg, #0a2a0a 0%, #0d3a0d 100%);
+}
+
+.dark .cover-placeholder-label {
+  color: #aaa;
+}
+
+/* ===================================================
    ホームページ カテゴリグリッド
    =================================================== */
 
