@@ -102,6 +102,17 @@
   object-fit: contain;
 }
 
+/* レビュー数 */
+.amazon-card-reviews {
+  margin: 0 0 0.1rem;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.dark .amazon-card-reviews {
+  color: #aaa;
+}
+
 /* バッジ */
 .amazon-card-badge {
   display: inline-block;

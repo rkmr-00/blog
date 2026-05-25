@@ -9,6 +9,9 @@
 <span class="amazon-card-badge">{{ .Get "badge" }}</span>
 {{- end }}
 <p class="amazon-card-title">{{ .Get "title" }}</p>
+{{- if .Get "reviews" }}
+<p class="amazon-card-reviews">{{ .Get "reviews" }}</p>
+{{- end }}
 <p class="amazon-card-domain">amazon.co.jp</p>
 {{- if .Get "price" }}
 <p class="amazon-card-price">{{ .Get "price" }}</p>
