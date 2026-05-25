@@ -984,3 +984,14 @@
 .dark .pr-disclosure-text {
   color: #aaa;
 }
+
+.home-top3-pr-notice {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: #888;
+  margin-left: 0.4rem;
+}
+
+.dark .home-top3-pr-notice {
+  color: #777;
+}
