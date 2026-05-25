@@ -55,7 +55,7 @@ faq:
 
 Sony の最高峰ANCイヤホン。業界トップクラスのノイズキャンセリング性能に加え、**LDAC対応のハイレゾ相当音質**を実現。外音取り込みの自然さも抜群で、一度使うと他のイヤホンに戻れなくなると言われるほどの完成度です。
 
-**向かない人：** 価格3万円台が予算オーバーな方、音よりも超軽量・完全オープン型を好む方はAnker Liberty 4 NCやJVC HA-A30Tを検討してください。
+**向かない人：** 価格3万円台が予算オーバーな方、音よりも超軽量・完全オープン型を好む方はAnker Liberty 5やJVC HA-A30Tを検討してください。
 
 | 項目 | スペック |
 |------|---------|
@@ -168,8 +168,8 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 |------|------------|
 | **通勤・電車** | Sony WF-1000XM5 / AirPods Pro 2 |
 | **テレワーク** | LinkBuds S / AirPods Pro 2 |
-| **運動・スポーツ** | Jabra Elite 8 Active |
-| **コスパ重視** | Anker Liberty 4 NC |
+| **運動・スポーツ** | Bose QuietComfort Earbuds |
+| **コスパ重視** | Anker Liberty 5 |
 | **音楽鑑賞（ハイレゾ）** | Sony WF-1000XM5 |
 
 ## まとめ
@@ -178,8 +178,8 @@ Boseが誇る**業界最高水準のANC性能**に加え、豊かで迫力ある
 
 - **ANCが必要で予算がある** → Sony WF-1000XM5
 - **iPhoneメイン** → AirPods Pro 2
-- **コスパ優先** → Anker Liberty 4 NC
-- **スポーツ向け** → Jabra Elite 8 Active
+- **コスパ優先** → Anker Liberty 5
+- **スポーツ向け** → Bose QuietComfort Earbuds
 
 迷ったらまず**Sony WF-1000XM5**を選べば後悔はありません。Amazonで定期的にセールも実施されるため、タイミングを見て購入するのがおすすめです。
 
