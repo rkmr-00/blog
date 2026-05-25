@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（35本）
+## 現在の記事一覧（34本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -35,7 +35,7 @@
 | `4k-tv-ranking.md` | 4Kテレビ ランキング10選（Sony・Samsung・LG・パナソニック比較） | ranking |
 | `coffee-maker-ranking.md` | コーヒーメーカー ランキング8選（全自動・カプセル・ドリップ比較） | ranking |
 | `gaming-chair-ranking.md` | ゲーミングチェア ランキング8選（DXRacer・AKRacing・Secretlab比較） | ranking |
-| `electric-bicycle-ranking.md` | 電動自転車 ランキング8選（パナソニック・ヤマハ・ブリヂストン比較） | ranking |
+| `electric-bicycle-ranking.md` | 電動自転車 ランキング7選（パナソニック・ヤマハ・ブリヂストン比較） | ranking |
 | `wired-earphone-ranking.md` | 有線イヤホン ランキング10選（高音質・コスパ・SHURE・final比較） | ranking |
 | `smartwatch-comparison.md` | Apple Watch vs Galaxy Watch vs Pixel Watch 3ブランド比較 | comparison |
 | `home-theater-speaker-ranking.md` | ホームシアタースピーカー ランキング8選（Sonos・Bose・JBL・ヤマハ比較） | ranking |

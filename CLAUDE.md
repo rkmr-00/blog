@@ -5,13 +5,13 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-26 セッション4）
+## セッション引き継ぎ（最終更新: 2026-05-26 セッション5）
 
 ### 現在の状態スナップショット
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **35本**（posts/配下） |
+| 記事数 | **34本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
@@ -22,20 +22,19 @@
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全35本が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全34本が収益化開始 |
 | 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | 既存記事のアクセス解析→リライト | GSCデータが溜まってから（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-26 セッション4）
+### 直近セッションで実施したこと（2026-05-26 セッション5）
 
-- 購買意欲スコアリングループ（Strategy/Design/Audit 各100点満点）R9→R12で平均91.0到達（目標90超クリア）
-- ASIN整合修正: wireless-earphone / robot-vacuum / mobile-battery 全製品の説明文とASINを一致させた
-- 景表法対応: urgency文言を煽り表現から中立的な在庫変動案内に変更、CSS背景色も赤→グレーに
-- PR開示バナー追加: `layouts/single.html` オーバーライドで全記事トップに表示
-- cover.html修正: `layouts/_partials/` → `layouts/partials/` に移動してカテゴリ別グラデーションを復活
-- amazon.htmlショートコード: `reason`パラメータ追加（購入動機の一文を差し込み）
-- gaming-setup-guide.md 追加（ゲーミングデスク環境ガイド）
+- 監査（audit-ai）実施→重大3件・要改善5件を検出・修正
+- CLAUDE.md/docs/articles.mdの記事数誤記修正: 35本→34本（実態に合わせた）
+- mobile-battery-guide.md ASIN整合修正: 第4位を「Anker 511」→「Anker 521（充電器一体型）」に説明統一、第5位を「Baseus」→「UGREEN」に製品名・説明文統一
+- layouts/_partials/cover.html（Hugoが無視するディレクトリの残骸）を削除
+- hugo.toml ホーム文言の記事数更新: 31記事→34記事
+- docs/articles.md の electric-bicycle 誤記修正: 8選→7選（記事実態に合わせた）
 
 ### セッション終了時のチェックリスト
 
