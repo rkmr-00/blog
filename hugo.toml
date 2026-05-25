@@ -79,6 +79,11 @@ paginate = 10
 #   [services.googleAnalytics]
 #     ID = "G-XXXXXXXXXX"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [minify]
   disableXML = true
   minifyOutput = true

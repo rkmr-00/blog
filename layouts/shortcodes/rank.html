@@ -1,0 +1,7 @@
+<div class="rank-card{{ if .Get "rank" }} rank-{{ .Get "rank" }}{{ end }}">
+  <div class="rank-badge">
+    <span class="rank-num">{{ .Get "rank" }}</span>
+    <span class="rank-label">位</span>
+  </div>
+  {{ .Inner }}
+</div>

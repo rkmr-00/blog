@@ -1,21 +1,27 @@
 <div class="amazon-card">
-  <a href="https://www.amazon.co.jp/dp/{{ .Get "id" }}/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener">
-    <div class="amazon-card-inner">
-      <div class="amazon-card-content">
-        <p class="amazon-card-title">{{ .Get "title" }}</p>
-        <p class="amazon-card-domain">www.amazon.co.jp</p>
-        {{ if .Get "price" }}
-        <p class="amazon-card-price">{{ .Get "price" }}</p>
-        {{ end }}
-        <div class="amazon-card-btn">Amazon.co.jpで購入する</div>
-      </div>
-      <div class="amazon-card-image">
-        {{ if .Get "image" }}
-        <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
-        {{ else }}
-        <img src="https://images-na.ssl-images-amazon.com/images/P/{{ .Get "id" }}.01._SL200_.jpg" alt="{{ .Get "title" }}" loading="lazy">
-        {{ end }}
-      </div>
-    </div>
-  </a>
+{{- if .Get "campaign" }}
+<div class="amazon-card-campaign">{{ .Get "campaign" }}</div>
+{{- end }}
+<a href="https://www.amazon.co.jp/dp/{{ .Get "id" }}/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener">
+<div class="amazon-card-inner">
+<div class="amazon-card-content">
+{{- if .Get "badge" }}
+<span class="amazon-card-badge">{{ .Get "badge" }}</span>
+{{- end }}
+<p class="amazon-card-title">{{ .Get "title" }}</p>
+<p class="amazon-card-domain">amazon.co.jp</p>
+{{- if .Get "price" }}
+<p class="amazon-card-price">{{ .Get "price" }}</p>
+{{- end }}
+<div class="amazon-card-btn">Amazonで最安値を確認する →</div>
+</div>
+<div class="amazon-card-image">
+{{- if .Get "image" }}
+<img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
+{{- else }}
+<img src="https://images-na.ssl-images-amazon.com/images/P/{{ .Get "id" }}.01._SL200_.jpg" alt="{{ .Get "title" }}" loading="lazy">
+{{- end }}
+</div>
+</div>
+</a>
 </div>
