@@ -112,6 +112,11 @@
   color: #fff !important;
 }
 
+/* ヒーローの信頼指標バー */
+.home-info .entry-content p strong {
+  color: #FF9900 !important;
+}
+
 /* ヒーローのRSSアイコンエリア */
 .home-info .entry-footer {
   margin-top: 1.2rem;
@@ -119,6 +124,30 @@
 
 .home-info .entry-footer a svg {
   color: #888 !important;
+}
+
+/* 信頼指標バー（ヒーロー下） */
+.trust-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 1.4rem;
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #333;
+}
+
+.trust-bar-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  color: #aaa;
+  font-weight: 600;
+}
+
+.trust-bar-item .trust-icon {
+  color: #FF9900;
+  font-style: normal;
 }
 
 /* ===================================================
@@ -130,6 +159,7 @@
   border: 1px solid var(--border-light) !important;
   transition: box-shadow 0.2s, transform 0.2s !important;
   overflow: hidden;
+  padding: 1.1rem 1.3rem !important;
 }
 
 .post-entry:hover {
@@ -142,6 +172,36 @@
   font-size: 1.05rem !important;
   font-weight: 800 !important;
   line-height: 1.5 !important;
+}
+
+/* 記事カードのタグをバッジ化 */
+.post-entry .entry-footer,
+.post-entry .post-meta {
+  margin-top: 0.4rem;
+}
+
+.post-entry a[href*="/tags/"] {
+  display: inline-block;
+  background: #FF9900;
+  color: #111 !important;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 3px;
+  text-decoration: none !important;
+  margin-right: 4px;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+}
+
+.post-entry a[href*="/tags/"]:hover {
+  background: #e8700a;
+  color: #fff !important;
+}
+
+.dark .post-entry a[href*="/tags/"] {
+  background: #e47911;
+  color: #111 !important;
 }
 
 /* ===================================================
