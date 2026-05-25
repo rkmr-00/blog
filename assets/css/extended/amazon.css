@@ -135,13 +135,17 @@
   border-top: 1px solid #f0f0f0;
 }
 
-/* === 緊急性テキスト === */
+/* === 緊急性テキスト（赤バッジスタイル） === */
 .amazon-card-urgency {
-  font-size: 0.72rem;
-  color: #b7410e;
-  margin: 0.2rem 0 0;
+  font-size: 0.75rem;
+  color: #fff;
+  background: linear-gradient(90deg, #c0392b, #e74c3c);
+  margin: 0.4rem 0 0;
+  padding: 4px 10px;
+  border-radius: 4px;
   text-align: center;
-  font-weight: 600;
+  font-weight: 700;
+  letter-spacing: 0.03em;
 }
 
 /* === クイックピックボタン パルスアニメーション === */
@@ -319,7 +323,8 @@
 }
 
 .dark .amazon-card-urgency {
-  color: #ff8a65;
+  background: linear-gradient(90deg, #a93226, #c0392b);
+  color: #fff;
 }
 
 .dark .rank-card.rank-1::before {
@@ -377,4 +382,45 @@
 
 .dark .quick-picks-title {
   color: #e0e0e0;
+}
+
+/* === モバイル対応（480px以下） === */
+@media (max-width: 479px) {
+  .amazon-card-inner {
+    flex-direction: column;
+  }
+
+  .amazon-card-image {
+    width: 100%;
+    border-left: none;
+    border-top: 1px solid #eee;
+    padding: 0.75rem 1rem;
+    order: -1;
+    height: 140px;
+  }
+
+  .amazon-card-image img {
+    max-height: 120px;
+  }
+
+  .amazon-card-content {
+    padding: 0.9rem 1rem;
+  }
+
+  .dark .amazon-card-image {
+    border-top-color: #444;
+    border-left: none;
+  }
+
+  .quick-picks-list li {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+  }
+
+  .quick-pick-btn {
+    align-self: flex-end;
+    font-size: 0.82rem;
+    padding: 0.4rem 0.9rem;
+  }
 }

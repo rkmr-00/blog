@@ -106,6 +106,8 @@ faq:
 
 **こんな人におすすめ：** 通勤・買い物・日常の移動を快適にしたい人・坂道が多い地域に住む人
 
+**📊 Amazon売れ筋ランキング常連・レビュー多数の実績モデル。** 当ブログでも最も問い合わせが多いNo.1人気商品です。
+
 パナソニックの人気通勤用電動アシスト自転車。**16Ahバッテリー**で標準モード約85kmの長距離走行が可能。独自の「カルパワードライブユニット」は軽量ながらパワフルで、急な坂道でもスムーズにアシスト。
 
 スマートアシスト（走行状況に応じて自動でアシスト力を調整）で平地・坂道・向かい風を自動判定し最適なアシストを提供。軽量アルミフレームで取り回しがしやすく、女性にも扱いやすいデザインです。
@@ -167,6 +169,31 @@ faq:
 
 {{< amazon id="B0CN3667DY" title="ブリヂストン ビッケ モブ 電動アシスト自転車 子乗せ対応" badge="子乗せ専用設計" >}}
 {{% /rank %}}
+
+---
+
+{{< rawhtml >}}
+<div class="quick-picks" style="margin: 1.5rem 0;">
+<p class="quick-picks-title">🏆 迷ったらこの3択！編集部厳選TOP3をAmazonで今すぐ確認</p>
+<ul class="quick-picks-list">
+  <li>
+    <span class="quick-pick-rank" style="color:#D4AF37;">1位</span>
+    <span class="quick-pick-text"><strong>通勤・日常</strong>：パナソニック ビビ・SL</span>
+    <a href="https://www.amazon.co.jp/dp/B0FXLVBVH4/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">最安値を確認 →</a>
+  </li>
+  <li>
+    <span class="quick-pick-rank" style="color:#A8A9AD;">2位</span>
+    <span class="quick-pick-text"><strong>坂道重視</strong>：ヤマハ PAS With スーパー</span>
+    <a href="https://www.amazon.co.jp/dp/B0D1MZG6B4/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">最安値を確認 →</a>
+  </li>
+  <li>
+    <span class="quick-pick-rank" style="color:#CD7F32;">3位</span>
+    <span class="quick-pick-text"><strong>子乗せ</strong>：ブリヂストン ビッケ モブ</span>
+    <a href="https://www.amazon.co.jp/dp/B0CN3667DY/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">最安値を確認 →</a>
+  </li>
+</ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 

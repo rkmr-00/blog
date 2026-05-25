@@ -140,14 +140,53 @@
   display: flex;
   align-items: center;
   gap: 0.35rem;
-  font-size: 0.8rem;
-  color: #aaa;
+  font-size: 0.82rem;
+  color: #ccc;
   font-weight: 600;
 }
 
 .trust-bar-item .trust-icon {
   color: #FF9900;
   font-style: normal;
+}
+
+/* ===================================================
+   ホームページ 記事カード追加スタイル
+   =================================================== */
+
+/* 記事カードに左ボーダーアクセント */
+.post-entry {
+  border-left: 3px solid transparent !important;
+  transition: box-shadow 0.2s, transform 0.2s, border-left-color 0.2s !important;
+}
+
+.post-entry:hover {
+  border-left-color: #FF9900 !important;
+}
+
+/* 日付・著者エリアのスタイル強化 */
+.post-entry .entry-meta,
+.post-entry .post-meta {
+  font-size: 0.78rem;
+  color: var(--text-sub);
+  margin-top: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* 記事カードのdescriptionを2行に抑える */
+.post-entry .entry-content p,
+.post-entry .entry-summary {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.88rem;
+  color: var(--text-sub);
+  margin: 0.3rem 0 0;
+  line-height: 1.6;
 }
 
 /* ===================================================
