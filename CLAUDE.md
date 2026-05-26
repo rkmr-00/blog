@@ -11,32 +11,41 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **39本**（posts/配下） |
+| 記事数 | **41本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
-| Google Analytics | ❌ 未設定 |
-| 最終デプロイ | 2026-05-26（電気圧力鍋ランキング記事追加） |
+| Google Analytics | ❌ 未設定（hugo.tomlにコメントアウト済み・測定ID取得後に有効化） |
+| 最終デプロイ | 2026-05-26（新記事3本追加・内部リンク5記事強化） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全39本が収益化開始 |
-| 🟡 中 | Google Analytics 設定 | 流入状況を把握してSEO改善に活かす |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全41本が収益化開始 |
+| 🔴 高 | Google Analytics 設定（GA4測定IDを取得してhugo.tomlのコメント解除） | 流入状況を把握してSEO改善に活かす。hugo.tomlに設定箇所は準備済み |
 | 🟡 中 | プロジェクターおすすめランキング記事追加 | ホームシアター需要・高単価アフィリエイト |
-| 🟡 中 | ヘアアイロンおすすめランキング記事追加 | 女性ユーザー獲得・Dyson等高単価商品 |
 | 🟡 中 | 炊飯器おすすめランキング記事追加 | electric-pressure-cooker記事から内部リンク先として需要あり |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
 ### 直近セッションで実施したこと（2026-05-26 セッション8）
 
-- **新記事追加**：electric-pressure-cooker-ranking.md（電気圧力鍋おすすめランキング10選）
-  - シロカ SP-4D151/ティファール クックフォーミー6L/パナソニック SR-MP300/アイリスオーヤマ LT-NA40/タイガー COK-A220/シャープ ホットクック KN-HW24G/クイジナート CPC-600J/ドウシシャ マルチポット/アンドマット SR-PD101/ブラウン MultiQuick 10製品掲載
-  - 選び方4ポイント（容量・調理モード・操作性・手入れのしやすさ）
-  - 用途別まとめ表・よくある質問3問・内部リンク4本（electric-kettle/coffee-maker/refrigerator/washing-machine）
-- docs/articles.md の記事一覧を38本→39本に更新
+- **PV増加戦略を立案**（strategy-aiによる調査）：除湿機・電気圧力鍋・ヘアアイロンを優先記事として特定
+- **新記事追加①**：dehumidifier-ranking.md（除湿機おすすめランキング10選・梅雨シーズン需要狙い）
+  - パナソニック/シャープ/コロナ/アイリスオーヤマ/ダイキン/三菱電機/東芝/シャープCV-S71/コイズミ/アイリスIJCP 10製品掲載
+- **新記事追加②**：electric-pressure-cooker-ranking.md（電気圧力鍋おすすめランキング10選）
+  - シロカ/ティファール/パナソニック/アイリスオーヤマ/タイガー/シャープホットクック/クイジナート/ドウシシャ/アンドマット/ブラウン 10製品掲載
+- **新記事追加③**：hair-iron-ranking.md（ヘアアイロンおすすめランキング10選・女性ユーザー向け）
+  - KINUJO/Dyson Corrale/パナソニック/リファ/クレイツ/ヴィダルサスーン/コイズミ/ラヴィス/テスコム/BaByliss 10製品掲載
+- **内部リンク強化（5記事更新）**：
+  - dryer-ranking → hair-iron-ranking 追加
+  - air-purifier-ranking → dehumidifier-ranking 追加
+  - humidifier-ranking → dehumidifier-ranking 追加
+  - electric-kettle-ranking → electric-pressure-cooker-ranking 追加
+  - coffee-maker-ranking → electric-pressure-cooker-ranking 追加
+- hugo.toml ホーム文言の記事数更新: 38記事→41記事
+- docs/articles.md の記事一覧を更新（次のセッションで実施）
 
 ### セッション終了時のチェックリスト
 

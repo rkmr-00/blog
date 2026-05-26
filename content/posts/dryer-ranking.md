@@ -216,6 +216,7 @@ A. 速乾性を重視するなら高風速モデルがおすすめです。Dyson
 
 ## あわせて読みたい
 
+- [ヘアアイロンおすすめランキング10選｜Dyson・KINUJO・パナソニックを徹底比較](../hair-iron-ranking/)
 - [電動歯ブラシおすすめランキング](../electric-toothbrush-ranking/)
 - [空気清浄機おすすめランキング](../air-purifier-ranking/)
 - [ワイヤレス充電器おすすめランキング](../wireless-charger-ranking/)

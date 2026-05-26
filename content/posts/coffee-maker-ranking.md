@@ -220,6 +220,7 @@ A. 全自動コーヒーメーカーは豆の品質によりますが1杯30〜10
 
 ## あわせて読みたい
 
+- [電気圧力鍋おすすめランキング10選｜ティファール・シロカ・パナソニックを徹底比較](../electric-pressure-cooker-ranking/)
 - [電気ケトルおすすめランキング](../electric-kettle-ranking/)
 - [ウォーターサーバーおすすめランキング8選｜コスパ・天然水・浄水型比較](../water-server-ranking/)
 - [電動歯ブラシおすすめランキング](../electric-toothbrush-ranking/)
