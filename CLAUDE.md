@@ -11,21 +11,21 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **41本**（posts/配下） |
+| 記事数 | **43本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ❌ 未設定（hugo.tomlにコメントアウト済み・測定ID取得後に有効化） |
-| 最終デプロイ | 2026-05-26（新記事3本追加・内部リンク5記事強化） |
+| 最終デプロイ | 2026-05-26（新記事5本追加・内部リンク多数強化） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全41本が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全43本が収益化開始 |
 | 🔴 高 | Google Analytics 設定（GA4測定IDを取得してhugo.tomlのコメント解除） | 流入状況を把握してSEO改善に活かす。hugo.tomlに設定箇所は準備済み |
-| 🟡 中 | プロジェクターおすすめランキング記事追加 | ホームシアター需要・高単価アフィリエイト |
-| 🟡 中 | 炊飯器おすすめランキング記事追加 | electric-pressure-cooker記事から内部リンク先として需要あり |
+| 🟡 中 | 電子レンジ・オーブンレンジランキング記事追加 | 調理家電クラスターのさらなる強化 |
+| 🟡 中 | ポータブル電源ランキング記事追加 | 防災需要・アウトドア需要・高単価 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
@@ -44,8 +44,17 @@
   - humidifier-ranking → dehumidifier-ranking 追加
   - electric-kettle-ranking → electric-pressure-cooker-ranking 追加
   - coffee-maker-ranking → electric-pressure-cooker-ranking 追加
-- hugo.toml ホーム文言の記事数更新: 38記事→41記事
-- docs/articles.md の記事一覧を更新（次のセッションで実施）
+- **新記事追加④**：projector-ranking.md（プロジェクターおすすめランキング10選・ホームシアター/ポータブル/4K比較）
+  - BenQ/Anker Nebula/エプソン/XGIMI/ソニー/Dangbei/ViewSonic 10製品掲載
+- **新記事追加⑤**：rice-cooker-ranking.md（炊飯器おすすめランキング10選・圧力IH/IH/マイコン比較）
+  - パナソニック/タイガー/象印/日立/シャープ/アイリスオーヤマ/山善 10製品掲載
+- **内部リンク強化（4記事追加更新）**：
+  - 4k-tv-ranking → projector-ranking 追加
+  - home-theater-speaker-ranking → projector-ranking 追加
+  - electric-pressure-cooker-ranking → rice-cooker-ranking 追加
+  - refrigerator-ranking → rice-cooker-ranking 追加
+- hugo.toml ホーム文言の記事数更新: 41記事→43記事
+- docs/articles.md の記事一覧更新
 
 ### セッション終了時のチェックリスト
 
