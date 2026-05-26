@@ -11,18 +11,18 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **47本**（posts/配下） |
+| 記事数 | **49本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（新記事4本追加・内部リンク強化・記事数47本へ） |
+| 最終デプロイ | 2026-05-27（新記事6本追加・内部リンク強化・記事数49本へ） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全47本が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全49本が収益化開始 |
 | 🟡 中 | スマートホーム入門ガイド記事追加 | スマートプラグ・スマートロック・スマートスピーカーの横断ガイド |
 | 🟡 中 | コードレス掃除機vs有線掃除機 比較記事 | 検索需要が高い比較系コンテンツ |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
@@ -40,13 +40,20 @@
   - ストリーマ・プラズマクラスター・ナノイーXの独自技術比較
 - **新記事追加④**：gaming-keyboard-ranking.md（ゲーミングキーボードおすすめランキング10選）
   - Logicool/CORSAIR/Razer/SteelSeries/HHKB 10製品掲載（メカニカル・静音・テンキーレス）
-- **内部リンク強化（8記事更新）**：
+- **新記事追加⑤**：smart-home-guide.md（スマートホーム入門ガイド・初心者向けデバイス5選）
+  - SwitchBot/Amazon Echo/Philips Hue/TP-Link 5製品掲載
+  - Google Home/Alexa/Apple HomeKitのプラットフォーム比較表
+- **新記事追加⑥**：cordless-vs-corded-vacuum-comparison.md（コードレスvs有線掃除機 比較）
+  - Dyson/パナソニック/マキタ/三菱/東芝/日立 6製品掲載・8項目比較表
+- **内部リンク強化（12記事更新）**：
   - refrigerator/washing-machine → microwave-ranking 追加
   - electric-bicycle/fan-circulator → portable-power-station-ranking 追加
   - air-purifier/humidifier → air-purifier-humidifier-ranking 追加
   - gaming-mouse/keyboard → gaming-keyboard-ranking 追加
-- hugo.toml ホーム文言の記事数更新: 43記事→47記事
-- docs/articles.md の記事一覧更新（43本→47本）
+  - smart-plug/smart-lock → smart-home-guide 追加
+  - cordless-vacuum/vacuum-cleaner → cordless-vs-corded-vacuum-comparison 追加
+- hugo.toml ホーム文言の記事数更新: 43記事→49記事
+- docs/articles.md の記事一覧更新（43本→49本）
 
 ### セッション終了時のチェックリスト
 

@@ -221,3 +221,4 @@ A. プラグ形状（A型）と電圧（100V）が対応していれば使えま
 - [スマートスピーカーおすすめランキング](../smart-speaker-ranking/)
 - [スマートロックおすすめランキング](../smart-lock-ranking/)
 - [ワイヤレス充電器おすすめランキング](../wireless-charger-ranking/)
+- [スマートホーム入門ガイド｜初心者が最初に買うべきデバイス5選](../smart-home-guide/)

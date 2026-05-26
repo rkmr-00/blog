@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（47本）
+## 現在の記事一覧（49本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -55,6 +55,8 @@
 | `portable-power-station-ranking.md` | ポータブル電源おすすめランキング10選（EcoFlow・Jackery・Anker・BLUETTI比較） | ranking |
 | `air-purifier-humidifier-ranking.md` | 空気清浄機加湿器一体型おすすめランキング10選（ダイキン・シャープ・パナソニック比較） | ranking |
 | `gaming-keyboard-ranking.md` | ゲーミングキーボードおすすめランキング10選（メカニカル・静音・テンキーレス比較） | ranking |
+| `smart-home-guide.md` | スマートホーム入門ガイド｜初心者が最初に買うべきデバイス5選と始め方 | guide |
+| `cordless-vs-corded-vacuum-comparison.md` | コードレス掃除機vs有線掃除機 どちらを選ぶ？用途別おすすめ機種も紹介 | comparison |
 
 ---
 
