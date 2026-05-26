@@ -11,18 +11,18 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **49本**（posts/配下） |
+| 記事数 | **51本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（新記事6本追加・内部リンク強化・記事数49本へ） |
+| 最終デプロイ | 2026-05-27（新記事8本追加・内部リンク強化・記事数51本へ） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全49本が収益化開始 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全51本が収益化開始 |
 | 🟡 中 | スマートホーム入門ガイド記事追加 | スマートプラグ・スマートロック・スマートスピーカーの横断ガイド |
 | 🟡 中 | コードレス掃除機vs有線掃除機 比較記事 | 検索需要が高い比較系コンテンツ |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
@@ -45,15 +45,22 @@
   - Google Home/Alexa/Apple HomeKitのプラットフォーム比較表
 - **新記事追加⑥**：cordless-vs-corded-vacuum-comparison.md（コードレスvs有線掃除機 比較）
   - Dyson/パナソニック/マキタ/三菱/東芝/日立 6製品掲載・8項目比較表
-- **内部リンク強化（12記事更新）**：
+- **新記事追加⑦**：dishwasher-ranking.md（食器洗い乾燥機おすすめランキング10選）
+  - パナソニック/アイリスオーヤマ/Siemens/AEG/ハイアール/THANKO 10製品掲載
+  - タンク式vs分岐水栓式・乾燥方式の比較
+- **新記事追加⑧**：laptop-ranking.md（ノートパソコンおすすめランキング10選）
+  - MacBook/Surface/ThinkPad/DELL XPS/HP/ASUS/Lenovo/Acer 10製品掲載（高単価・高affiliate単価）
+- **内部リンク強化（16記事更新）**：
   - refrigerator/washing-machine → microwave-ranking 追加
   - electric-bicycle/fan-circulator → portable-power-station-ranking 追加
   - air-purifier/humidifier → air-purifier-humidifier-ranking 追加
   - gaming-mouse/keyboard → gaming-keyboard-ranking 追加
   - smart-plug/smart-lock → smart-home-guide 追加
   - cordless-vacuum/vacuum-cleaner → cordless-vs-corded-vacuum-comparison 追加
-- hugo.toml ホーム文言の記事数更新: 43記事→49記事
-- docs/articles.md の記事一覧更新（43本→49本）
+  - rice-cooker → dishwasher-ranking 追加
+  - monitor/laptop-stand/tablet → laptop-ranking 追加
+- hugo.toml ホーム文言の記事数更新: 43記事→51記事
+- docs/articles.md の記事一覧更新（43本→51本）
 
 ### セッション終了時のチェックリスト
 

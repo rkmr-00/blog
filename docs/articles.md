@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（49本）
+## 現在の記事一覧（51本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -57,6 +57,8 @@
 | `gaming-keyboard-ranking.md` | ゲーミングキーボードおすすめランキング10選（メカニカル・静音・テンキーレス比較） | ranking |
 | `smart-home-guide.md` | スマートホーム入門ガイド｜初心者が最初に買うべきデバイス5選と始め方 | guide |
 | `cordless-vs-corded-vacuum-comparison.md` | コードレス掃除機vs有線掃除機 どちらを選ぶ？用途別おすすめ機種も紹介 | comparison |
+| `dishwasher-ranking.md` | 食器洗い乾燥機おすすめランキング10選（パナソニック・アイリスオーヤマ・シーメンス比較） | ranking |
+| `laptop-ranking.md` | ノートパソコンおすすめランキング10選（MacBook・Surface・DELL・Lenovo比較） | ranking |
 
 ---
 
