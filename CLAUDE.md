@@ -5,56 +5,47 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-26 セッション8）
+## セッション引き継ぎ（最終更新: 2026-05-27 セッション9）
 
 ### 現在の状態スナップショット
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **43本**（posts/配下） |
+| 記事数 | **45本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
-| Google Analytics | ❌ 未設定（hugo.tomlにコメントアウト済み・測定ID取得後に有効化） |
-| 最終デプロイ | 2026-05-26（新記事5本追加・内部リンク多数強化） |
+| Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
+| 最終デプロイ | 2026-05-27（新記事2本追加・内部リンク強化・記事数45本へ） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全43本が収益化開始 |
-| 🔴 高 | Google Analytics 設定（GA4測定IDを取得してhugo.tomlのコメント解除） | 流入状況を把握してSEO改善に活かす。hugo.tomlに設定箇所は準備済み |
-| 🟡 中 | 電子レンジ・オーブンレンジランキング記事追加 | 調理家電クラスターのさらなる強化 |
-| 🟡 中 | ポータブル電源ランキング記事追加 | 防災需要・アウトドア需要・高単価 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全45本が収益化開始 |
+| 🟡 中 | 空気清浄機加湿器一体型ランキング記事追加 | ダイキン・シャープ・パナソニック比較 |
+| 🟡 中 | ゲーミングキーボードランキング記事追加 | 既存のゲーミングカテゴリ強化 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-26 セッション8）
+### 直近セッションで実施したこと（2026-05-27 セッション9）
 
-- **PV増加戦略を立案**（strategy-aiによる調査）：除湿機・電気圧力鍋・ヘアアイロンを優先記事として特定
-- **新記事追加①**：dehumidifier-ranking.md（除湿機おすすめランキング10選・梅雨シーズン需要狙い）
-  - パナソニック/シャープ/コロナ/アイリスオーヤマ/ダイキン/三菱電機/東芝/シャープCV-S71/コイズミ/アイリスIJCP 10製品掲載
-- **新記事追加②**：electric-pressure-cooker-ranking.md（電気圧力鍋おすすめランキング10選）
-  - シロカ/ティファール/パナソニック/アイリスオーヤマ/タイガー/シャープホットクック/クイジナート/ドウシシャ/アンドマット/ブラウン 10製品掲載
-- **新記事追加③**：hair-iron-ranking.md（ヘアアイロンおすすめランキング10選・女性ユーザー向け）
-  - KINUJO/Dyson Corrale/パナソニック/リファ/クレイツ/ヴィダルサスーン/コイズミ/ラヴィス/テスコム/BaByliss 10製品掲載
-- **内部リンク強化（5記事更新）**：
-  - dryer-ranking → hair-iron-ranking 追加
-  - air-purifier-ranking → dehumidifier-ranking 追加
-  - humidifier-ranking → dehumidifier-ranking 追加
-  - electric-kettle-ranking → electric-pressure-cooker-ranking 追加
-  - coffee-maker-ranking → electric-pressure-cooker-ranking 追加
-- **新記事追加④**：projector-ranking.md（プロジェクターおすすめランキング10選・ホームシアター/ポータブル/4K比較）
-  - BenQ/Anker Nebula/エプソン/XGIMI/ソニー/Dangbei/ViewSonic 10製品掲載
-- **新記事追加⑤**：rice-cooker-ranking.md（炊飯器おすすめランキング10選・圧力IH/IH/マイコン比較）
-  - パナソニック/タイガー/象印/日立/シャープ/アイリスオーヤマ/山善 10製品掲載
-- **内部リンク強化（4記事追加更新）**：
-  - 4k-tv-ranking → projector-ranking 追加
-  - home-theater-speaker-ranking → projector-ranking 追加
-  - electric-pressure-cooker-ranking → rice-cooker-ranking 追加
-  - refrigerator-ranking → rice-cooker-ranking 追加
-- hugo.toml ホーム文言の記事数更新: 41記事→43記事
-- docs/articles.md の記事一覧更新
+- **新記事追加①**：microwave-ranking.md（電子レンジ・オーブンレンジおすすめランキング10選）
+  - パナソニック/日立/東芝/シャープ/アイリスオーヤマ/山善 10製品掲載
+  - スチームオーブンレンジ・オーブンレンジ・単機能レンジの3タイプ比較
+  - 内部リンク4本：rice-cooker-ranking / electric-pressure-cooker-ranking / electric-kettle-ranking / refrigerator-ranking
+- **新記事追加②**：portable-power-station-ranking.md（ポータブル電源おすすめランキング10選）
+  - EcoFlow/Jackery/Anker/BLUETTI 10製品掲載（防災・アウトドア・車中泊需要）
+  - 容量・出力・充電速度・重さで比較・用途別選び方を詳解
+  - 内部リンク4本：electric-bicycle-ranking / smart-plug-ranking / cordless-vacuum-ranking / fan-circulator-ranking
+- **内部リンク強化（既存記事へ追加）**：
+  - refrigerator-ranking → microwave-ranking 追加
+  - washing-machine-ranking → microwave-ranking 追加
+  - electric-bicycle-ranking → portable-power-station-ranking 追加
+  - fan-circulator-ranking → portable-power-station-ranking 追加
+- **Google Analytics 設定確認**：G-BP0F280FVR が hugo.toml に反映済み（前セッションで設定完了）
+- hugo.toml ホーム文言の記事数更新: 43記事→45記事
+- docs/articles.md の記事一覧更新（43本→45本）
 
 ### セッション終了時のチェックリスト
 
