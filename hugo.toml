@@ -69,10 +69,9 @@ paginate = 10
     url = "/privacy/"
     weight = 60
 
-# Google Analytics: G-XXXXXXXXXXを取得後に以下のコメントを外す
-# [services]
-#   [services.googleAnalytics]
-#     ID = "G-XXXXXXXXXX"
+[services]
+  [services.googleAnalytics]
+    ID = "G-BP0F280FVR"
 
 [markup]
   [markup.goldmark]
