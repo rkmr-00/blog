@@ -11,20 +11,20 @@
 
 | 項目 | 状態 |
 |------|------|
-| 記事数 | **45本**（posts/配下） |
+| 記事数 | **47本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（新記事2本追加・内部リンク強化・記事数45本へ） |
+| 最終デプロイ | 2026-05-27（新記事4本追加・内部リンク強化・記事数47本へ） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
-| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全45本が収益化開始 |
-| 🟡 中 | 空気清浄機加湿器一体型ランキング記事追加 | ダイキン・シャープ・パナソニック比較 |
-| 🟡 中 | ゲーミングキーボードランキング記事追加 | 既存のゲーミングカテゴリ強化 |
+| 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全47本が収益化開始 |
+| 🟡 中 | スマートホーム入門ガイド記事追加 | スマートプラグ・スマートロック・スマートスピーカーの横断ガイド |
+| 🟡 中 | コードレス掃除機vs有線掃除機 比較記事 | 検索需要が高い比較系コンテンツ |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
@@ -33,19 +33,20 @@
 - **新記事追加①**：microwave-ranking.md（電子レンジ・オーブンレンジおすすめランキング10選）
   - パナソニック/日立/東芝/シャープ/アイリスオーヤマ/山善 10製品掲載
   - スチームオーブンレンジ・オーブンレンジ・単機能レンジの3タイプ比較
-  - 内部リンク4本：rice-cooker-ranking / electric-pressure-cooker-ranking / electric-kettle-ranking / refrigerator-ranking
 - **新記事追加②**：portable-power-station-ranking.md（ポータブル電源おすすめランキング10選）
   - EcoFlow/Jackery/Anker/BLUETTI 10製品掲載（防災・アウトドア・車中泊需要）
-  - 容量・出力・充電速度・重さで比較・用途別選び方を詳解
-  - 内部リンク4本：electric-bicycle-ranking / smart-plug-ranking / cordless-vacuum-ranking / fan-circulator-ranking
-- **内部リンク強化（既存記事へ追加）**：
-  - refrigerator-ranking → microwave-ranking 追加
-  - washing-machine-ranking → microwave-ranking 追加
-  - electric-bicycle-ranking → portable-power-station-ranking 追加
-  - fan-circulator-ranking → portable-power-station-ranking 追加
-- **Google Analytics 設定確認**：G-BP0F280FVR が hugo.toml に反映済み（前セッションで設定完了）
-- hugo.toml ホーム文言の記事数更新: 43記事→45記事
-- docs/articles.md の記事一覧更新（43本→45本）
+- **新記事追加③**：air-purifier-humidifier-ranking.md（空気清浄機加湿器一体型おすすめランキング10選）
+  - ダイキン/シャープ/パナソニック/日立/アイリスオーヤマ 10製品掲載
+  - ストリーマ・プラズマクラスター・ナノイーXの独自技術比較
+- **新記事追加④**：gaming-keyboard-ranking.md（ゲーミングキーボードおすすめランキング10選）
+  - Logicool/CORSAIR/Razer/SteelSeries/HHKB 10製品掲載（メカニカル・静音・テンキーレス）
+- **内部リンク強化（8記事更新）**：
+  - refrigerator/washing-machine → microwave-ranking 追加
+  - electric-bicycle/fan-circulator → portable-power-station-ranking 追加
+  - air-purifier/humidifier → air-purifier-humidifier-ranking 追加
+  - gaming-mouse/keyboard → gaming-keyboard-ranking 追加
+- hugo.toml ホーム文言の記事数更新: 43記事→47記事
+- docs/articles.md の記事一覧更新（43本→47本）
 
 ### セッション終了時のチェックリスト
 
