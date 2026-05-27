@@ -5,7 +5,7 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-27 セッション10）
+## セッション引き継ぎ（最終更新: 2026-05-27 セッション11）
 
 ### 現在の状態スナップショット
 
@@ -18,7 +18,7 @@
 | X (Twitter) | ⏳ 未開設（セットアップガイド作成済み: docs/x-setup.md） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（楽天アフィリエイト実装・Xアカウント準備） |
+| 最終デプロイ | 2026-05-27（上位5記事テンプレート統一・クイックピックス追加） |
 
 ### 次のアクション（優先度順）
 
@@ -26,24 +26,24 @@
 |--------|-----------|------|
 | 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全53本が収益化開始 |
 | 🔴 高 | X (Twitter) アカウント開設 | docs/x-setup.md にプロフィール・投稿テンプレート準備済み |
-| 🔴 高 | 楽天リンクを既存記事に追加 | ウィジェット設置済み・次は商品別リンクを主要記事に追加 |
+| 🟡 中 | 残り48記事に楽天リンクを追加 | 主要5記事（スマートウォッチ・モニター・コードレス掃除機）に楽天カード未追加 |
+| 🟡 中 | 残り48記事にクイックピックス追加 | top5以外の記事にも順次適用すると高CTRに |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-27 セッション10）
+### 直近セッションで実施したこと（2026-05-27 セッション11）
 
-- **楽天アフィリエイト ショートコード実装**：
-  - `layouts/shortcodes/rakuten.html` — Amazonカードと同構造・楽天ブランドカラー（赤）
-  - `assets/css/extended/rakuten.css` — ダークモード・モバイル対応CSS
-  - 使い方：`{{< rakuten url="楽天アフィリエイトURL" title="商品名" price="価格" >}}`
-- **X (Twitter) アカウント開設ガイド作成**：
-  - `docs/x-setup.md` — ユーザー名候補・プロフィールBio・ピン留めツイート・7日分投稿テンプレート・ハッシュタグセット
-
-### 楽天アフィリエイトID取得後の追加作業
-
-1. `docs/x-setup.md` の手順でアフィリエイトURLを生成
-2. 既存記事（高単価商品から優先）に `{{< rakuten ... >}}` を追加
-3. Amazonリンクの隣に並べると比較できてクリック率↑
+- **ランキング記事テンプレート統一（上位5記事）**：
+  - `wireless-earphone-ranking.md`・`electric-bicycle-ranking.md` をひな型として確認
+  - `smartwatch-ranking.md`・`monitor-ranking.md`・`cordless-vacuum-ranking.md`・`robot-vacuum-ranking.md`・`laptop-ranking.md` の5記事を更新
+  - **クイックピックスボックス**（rawhtml quick-picks div）を各記事冒頭に追加
+  - **ランクショートコード**（`{{% rank rank="1|2|3" %}}...{{% /rank %}}`）を1〜3位に追加
+  - `laptop-ranking.md` の「結論：ノートパソコンおすすめTOP3」セクションをクイックピックスボックスに置き換え
+- **archetypes/ranking.md フルテンプレート更新**：
+  - クイックピックス・ランクショートコード・check・Amazon+楽天ペアカードを全て含む完全テンプレート
+- **docs/content-guide.md テンプレート構造を追記**：
+  - ショートコード使い方（rank・check・amazon全パラメータ・rakuten）をドキュメント化
+  - ディレクトリ構成に rakuten.html・rakuten.css・rank.html・check.html を追加
 
 ### セッション終了時のチェックリスト
 

@@ -20,6 +20,29 @@ faq:
 
 そんな悩みを抱える方のために、**実際に使用したレビューと口コミ調査をもとに2026年のおすすめランキング**をまとめました。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🤖 結論だけ知りたい方へ：ロボット掃除機おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>総合バランス</strong>：Roborock S6 MaxV ｜ カメラ障害物検知・水拭き一体型</span>
+      <a href="https://www.amazon.co.jp/dp/B08BDW3ZVW/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>ルンバ・コンパクト水拭き</strong>：ルンバ Mini Slim ｜ 薄型・家具下対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0GN2PRQN8/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>自動ゴミ収集・コスパ</strong>：ECOVACS DEEBOT N30 PLUS ｜ ゴミ捨て不要</span>
+      <a href="https://www.amazon.co.jp/dp/B0FMR9YY83/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめロボット掃除機TOP8
@@ -52,7 +75,8 @@ faq:
 
 ## おすすめロボット掃除機 ランキング TOP8
 
-### 🥇 第1位：Roborock S6 MaxV（カメラ搭載・総合バランス最強モデル）
+{{% rank rank="1" %}}
+### Roborock S6 MaxV（カメラ搭載・総合バランス最強モデル）
 
 **こんな人におすすめ：** 障害物検知の精度・水拭き・コスパのバランスを重視する人
 
@@ -70,10 +94,12 @@ faq:
 
 {{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 見守りカメラ 水拭き" badge="編集部ベストバイ2026" reviews="★4.4 レビュー2,100件以上（2026年5月調査時点）" price="参考価格 約50,000円前後" campaign="🤖 総合1位・今すぐ確認" reason="2,100件超レビューが実証。カメラ搭載の障害物検知が優秀で、掃除＋水拭きを一台でこなします。" >}}
 {{< rakuten item_url="https://item.rakuten.co.jp/victoryslife/0615-017589/" title="Roborock S6 MaxV ロボット掃除機 見守りカメラ 水拭き" badge="楽天ポイント還元" reason="楽天ポイントを貯めている方はこちら！ポイント還元でさらにお得に。" >}}
+{{% /rank %}}
 
 ---
 
-### 🥈 第2位：ルンバ Mini Slim（コンパクト＆水拭き対応iRobotモデル）
+{{% rank rank="2" %}}
+### ルンバ Mini Slim（コンパクト＆水拭き対応iRobotモデル）
 
 **こんな人におすすめ：** ルンバブランドの信頼感を活かしつつ、コンパクトで水拭き対応のモデルを探している人
 
@@ -83,10 +109,12 @@ iRobot製のコンパクトモデル。**本体が薄くソファや家具の下
 
 {{< amazon id="B0GN2PRQN8" title="ルンバ Mini Slim ロボット掃除機＆床拭き iRobot" reviews="★4.2 レビュー500件以上（2026年5月調査時点）" price="参考価格 約30,000円前後" >}}
 {{< rakuten item_url="https://item.rakuten.co.jp/irobotstore/f11/" title="ルンバ Mini Slim ロボット掃除機 床拭き iRobot公式" badge="楽天ポイント還元" reason="アイロボット公式楽天店で安心購入！ポイント還元でさらにお得に。" >}}
+{{% /rank %}}
 
 ---
 
-### 🥉 第3位：ECOVACS DEEBOT N30 PLUS（自動ゴミ収集付き・コスパ優秀）
+{{% rank rank="3" %}}
+### ECOVACS DEEBOT N30 PLUS（自動ゴミ収集付き・コスパ優秀）
 
 **こんな人におすすめ：** ゴミ捨ての手間をなくしたい人、自動収集ステーション付きをお得に買いたい人
 
@@ -96,6 +124,7 @@ iRobot製のコンパクトモデル。**本体が薄くソファや家具の下
 
 {{< amazon id="B0FMR9YY83" title="ECOVACS DEEBOT N30 PLUS ロボット掃除機 自動ゴミ収集 水拭き" reviews="★4.2 レビュー600件以上（2026年5月調査時点）" price="参考価格 約30,000円前後" >}}
 {{< rakuten item_url="https://item.rakuten.co.jp/store-ecovacs-japan/ydlx11-35ee/" title="ECOVACS DEEBOT N30 PLUS ロボット掃除機 自動ゴミ収集 水拭き" badge="楽天ポイント還元" reason="エコバックスジャパン公式楽天店で安心購入！ポイント還元あり。" >}}
+{{% /rank %}}
 
 ---
 
