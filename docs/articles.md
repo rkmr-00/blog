@@ -4,7 +4,7 @@
 
 ---
 
-## 現在の記事一覧（51本）
+## 現在の記事一覧（53本）
 
 | ファイル | タイトル概要 | カテゴリ |
 |---------|------------|---------|
@@ -59,6 +59,8 @@
 | `cordless-vs-corded-vacuum-comparison.md` | コードレス掃除機vs有線掃除機 どちらを選ぶ？用途別おすすめ機種も紹介 | comparison |
 | `dishwasher-ranking.md` | 食器洗い乾燥機おすすめランキング10選（パナソニック・アイリスオーヤマ・シーメンス比較） | ranking |
 | `laptop-ranking.md` | ノートパソコンおすすめランキング10選（MacBook・Surface・DELL・Lenovo比較） | ranking |
+| `smartphone-ranking.md` | スマートフォンおすすめランキング10選（iPhone・Pixel・Galaxy・AQUOS・Xperia比較） | ranking |
+| `hot-plate-ranking.md` | ホットプレートおすすめランキング10選（ブルーノ・テスコム・パナソニック比較） | ranking |
 
 ---
 
