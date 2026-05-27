@@ -214,10 +214,13 @@ https://rkmr-00.github.io/blog/posts/cordless-vs-corded-vacuum-comparison/
 1. `layouts/shortcodes/rakuten.html` — すでに実装済み
 2. 各記事の商品に楽天リンクを追加（使い方は下記）
 
-### ショートコードの使い方
+### ショートコードの使い方（2通り）
+
+**方法①：楽天商品URLから自動生成（簡単・推奨）**
+楽天市場の商品ページURLをそのまま渡すだけでアフィリエイトURLを自動生成します。
 ```
 {{< rakuten 
-  url="【楽天アフィリエイトツールで生成したURL】"
+  item_url="https://item.rakuten.co.jp/ショップ名/商品ID/"
   title="商品名"
   price="¥XX,XXX（税込）"
   badge="楽天1位"
@@ -226,8 +229,11 @@ https://rkmr-00.github.io/blog/posts/cordless-vs-corded-vacuum-comparison/
 >}}
 ```
 
-### 楽天アフィリエイトURL生成手順
-1. https://affiliate.rakuten.co.jp/ にログイン
-2. 「商品リンク」→ 商品検索
-3. 「リンクを作成」→ URLをコピー
-4. `url=` パラメータに貼り付け
+**方法②：アフィリエイトツールで生成したURLを直接使用**
+```
+{{< rakuten 
+  url="【楽天アフィリエイトツールで生成したフルURL】"
+  title="商品名"
+  price="¥XX,XXX（税込）"
+>}}
+```

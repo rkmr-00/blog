@@ -14,7 +14,7 @@
 | 記事数 | **53本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
-| 楽天アフィリエイト | ⏳ 未登録（ショートコード実装済み・ID取得後すぐ使える） |
+| 楽天アフィリエイト | ✅ 登録済み・ウィジェット設置済み（ID: `543b8391.aa707548.543b8392.c9ec69a5`） |
 | X (Twitter) | ⏳ 未開設（セットアップガイド作成済み: docs/x-setup.md） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
@@ -26,8 +26,7 @@
 |--------|-----------|------|
 | 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全53本が収益化開始 |
 | 🔴 高 | X (Twitter) アカウント開設 | docs/x-setup.md にプロフィール・投稿テンプレート準備済み |
-| 🔴 高 | 楽天アフィリエイト登録 (affiliate.rakuten.co.jp) | ショートコード実装済み・ID取得後すぐ記事に追加可能 |
-| 🟡 中 | 楽天リンクを既存記事に追加 | 登録後・IDを docs/x-setup.md に記載の手順で生成 |
+| 🔴 高 | 楽天リンクを既存記事に追加 | ウィジェット設置済み・次は商品別リンクを主要記事に追加 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
@@ -68,7 +67,7 @@
 | 項目 | 値 |
 |------|----|
 | Amazon アソシエイトID | `merrydietes48-22` |
-| 楽天アフィリエイトID | ⏳ 未取得（登録後ここに追記） |
+| 楽天アフィリエイトID | `543b8391.aa707548.543b8392.c9ec69a5` |
 | 公開URL | https://rkmr-00.github.io/blog/ |
 | GitHubリポジトリ | https://github.com/rkmr-00/blog |
 | ローカルパス | `c:\work\blog` |
@@ -93,5 +92,6 @@ hugo server
 - [x] Google Search Console登録・サイトマップ送信（2026-05-23 完了）
 - [ ] Amazon Associates 審査通過確認
 - [ ] X (Twitter) アカウント開設（ガイド: docs/x-setup.md）
-- [ ] 楽天アフィリエイト登録 → IDをCLAUDE.mdの「楽天アフィリエイトID」欄に記入
+- [x] 楽天アフィリエイト登録完了（2026-05-27）・ウィジェット設置済み
+- [ ] 楽天商品別リンクを主要記事に追加
 - [ ] 独自ドメイン取得（Associates通過後に検討）
