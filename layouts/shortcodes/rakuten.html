@@ -1,0 +1,35 @@
+<div class="rakuten-card">
+{{- if .Get "campaign" }}
+<div class="rakuten-card-campaign">{{ .Get "campaign" }}</div>
+{{- end }}
+<a href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener">
+<div class="rakuten-card-inner">
+<div class="rakuten-card-content">
+{{- if .Get "badge" }}
+<span class="rakuten-card-badge">{{ .Get "badge" }}</span>
+{{- end }}
+<p class="rakuten-card-title">{{ .Get "title" }}</p>
+{{- if .Get "reviews" }}
+<p class="rakuten-card-reviews">{{ .Get "reviews" }}</p>
+{{- end }}
+<p class="rakuten-card-domain">rakuten.co.jp</p>
+{{- if .Get "price" }}
+<p class="rakuten-card-price">{{ .Get "price" }}</p>
+{{- end }}
+{{- if .Get "reason" }}
+<p class="rakuten-card-reason">💬 {{ .Get "reason" }}</p>
+{{- end }}
+<p class="rakuten-card-urgency">📦 価格・在庫は時期によって変動します。最新情報は楽天市場でご確認ください。</p>
+<div class="rakuten-card-btn">楽天市場で最安値を確認する →</div>
+</div>
+<div class="rakuten-card-image">
+{{- if .Get "image" }}
+<img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
+{{- else }}
+<div class="rakuten-card-no-image">🛒</div>
+{{- end }}
+</div>
+</div>
+</a>
+<p class="rakuten-card-disclosure">※本リンクは楽天アフィリエイトのリンクです</p>
+</div>

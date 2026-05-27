@@ -5,7 +5,7 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-27 セッション9）
+## セッション引き継ぎ（最終更新: 2026-05-27 セッション10）
 
 ### 現在の状態スナップショット
 
@@ -14,53 +14,37 @@
 | 記事数 | **53本**（posts/配下） |
 | Google Search Console | ✅ 登録済み・HTMLタグ確認・サイトマップ送信済み |
 | Amazon Associates | ⏳ 審査中（2026-05-23 申請） |
+| 楽天アフィリエイト | ⏳ 未登録（ショートコード実装済み・ID取得後すぐ使える） |
+| X (Twitter) | ⏳ 未開設（セットアップガイド作成済み: docs/x-setup.md） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（新記事10本追加・内部リンク強化・記事数53本へ） |
+| 最終デプロイ | 2026-05-27（楽天アフィリエイト実装・Xアカウント準備） |
 
 ### 次のアクション（優先度順）
 
 | 優先度 | アクション | 理由 |
 |--------|-----------|------|
 | 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全53本が収益化開始 |
-| 🟡 中 | スマートホーム入門ガイド記事追加 | スマートプラグ・スマートロック・スマートスピーカーの横断ガイド |
-| 🟡 中 | コードレス掃除機vs有線掃除機 比較記事 | 検索需要が高い比較系コンテンツ |
+| 🔴 高 | X (Twitter) アカウント開設 | docs/x-setup.md にプロフィール・投稿テンプレート準備済み |
+| 🔴 高 | 楽天アフィリエイト登録 (affiliate.rakuten.co.jp) | ショートコード実装済み・ID取得後すぐ記事に追加可能 |
+| 🟡 中 | 楽天リンクを既存記事に追加 | 登録後・IDを docs/x-setup.md に記載の手順で生成 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-27 セッション9）
+### 直近セッションで実施したこと（2026-05-27 セッション10）
 
-- **新記事追加①**：microwave-ranking.md（電子レンジ・オーブンレンジおすすめランキング10選）
-  - パナソニック/日立/東芝/シャープ/アイリスオーヤマ/山善 10製品掲載
-  - スチームオーブンレンジ・オーブンレンジ・単機能レンジの3タイプ比較
-- **新記事追加②**：portable-power-station-ranking.md（ポータブル電源おすすめランキング10選）
-  - EcoFlow/Jackery/Anker/BLUETTI 10製品掲載（防災・アウトドア・車中泊需要）
-- **新記事追加③**：air-purifier-humidifier-ranking.md（空気清浄機加湿器一体型おすすめランキング10選）
-  - ダイキン/シャープ/パナソニック/日立/アイリスオーヤマ 10製品掲載
-  - ストリーマ・プラズマクラスター・ナノイーXの独自技術比較
-- **新記事追加④**：gaming-keyboard-ranking.md（ゲーミングキーボードおすすめランキング10選）
-  - Logicool/CORSAIR/Razer/SteelSeries/HHKB 10製品掲載（メカニカル・静音・テンキーレス）
-- **新記事追加⑤**：smart-home-guide.md（スマートホーム入門ガイド・初心者向けデバイス5選）
-  - SwitchBot/Amazon Echo/Philips Hue/TP-Link 5製品掲載
-  - Google Home/Alexa/Apple HomeKitのプラットフォーム比較表
-- **新記事追加⑥**：cordless-vs-corded-vacuum-comparison.md（コードレスvs有線掃除機 比較）
-  - Dyson/パナソニック/マキタ/三菱/東芝/日立 6製品掲載・8項目比較表
-- **新記事追加⑦**：dishwasher-ranking.md（食器洗い乾燥機おすすめランキング10選）
-  - パナソニック/アイリスオーヤマ/Siemens/AEG/ハイアール/THANKO 10製品掲載
-  - タンク式vs分岐水栓式・乾燥方式の比較
-- **新記事追加⑧**：laptop-ranking.md（ノートパソコンおすすめランキング10選）
-  - MacBook/Surface/ThinkPad/DELL XPS/HP/ASUS/Lenovo/Acer 10製品掲載（高単価・高affiliate単価）
-- **内部リンク強化（16記事更新）**：
-  - refrigerator/washing-machine → microwave-ranking 追加
-  - electric-bicycle/fan-circulator → portable-power-station-ranking 追加
-  - air-purifier/humidifier → air-purifier-humidifier-ranking 追加
-  - gaming-mouse/keyboard → gaming-keyboard-ranking 追加
-  - smart-plug/smart-lock → smart-home-guide 追加
-  - cordless-vacuum/vacuum-cleaner → cordless-vs-corded-vacuum-comparison 追加
-  - rice-cooker → dishwasher-ranking 追加
-  - monitor/laptop-stand/tablet → laptop-ranking 追加
-- hugo.toml ホーム文言の記事数更新: 43記事→51記事
-- docs/articles.md の記事一覧更新（43本→51本）
+- **楽天アフィリエイト ショートコード実装**：
+  - `layouts/shortcodes/rakuten.html` — Amazonカードと同構造・楽天ブランドカラー（赤）
+  - `assets/css/extended/rakuten.css` — ダークモード・モバイル対応CSS
+  - 使い方：`{{< rakuten url="楽天アフィリエイトURL" title="商品名" price="価格" >}}`
+- **X (Twitter) アカウント開設ガイド作成**：
+  - `docs/x-setup.md` — ユーザー名候補・プロフィールBio・ピン留めツイート・7日分投稿テンプレート・ハッシュタグセット
+
+### 楽天アフィリエイトID取得後の追加作業
+
+1. `docs/x-setup.md` の手順でアフィリエイトURLを生成
+2. 既存記事（高単価商品から優先）に `{{< rakuten ... >}}` を追加
+3. Amazonリンクの隣に並べると比較できてクリック率↑
 
 ### セッション終了時のチェックリスト
 
@@ -76,14 +60,15 @@
 
 ## ミッション
 
-**Amazonアフィリエイトで収益を得る**ことが唯一の目標。
-収益ファネル：検索流入 → 記事熟読 → Amazonリンククリック → 購入
+**アフィリエイトで収益を得る**ことが唯一の目標（Amazon + 楽天の二本柱）。
+収益ファネル：検索流入 → 記事熟読 → Amazon/楽天リンククリック → 購入
 
 ## 重要情報
 
 | 項目 | 値 |
 |------|----|
 | Amazon アソシエイトID | `merrydietes48-22` |
+| 楽天アフィリエイトID | ⏳ 未取得（登録後ここに追記） |
 | 公開URL | https://rkmr-00.github.io/blog/ |
 | GitHubリポジトリ | https://github.com/rkmr-00/blog |
 | ローカルパス | `c:\work\blog` |
@@ -107,4 +92,6 @@ hugo server
 
 - [x] Google Search Console登録・サイトマップ送信（2026-05-23 完了）
 - [ ] Amazon Associates 審査通過確認
-- [ ] 独自ドメイン取得（審査通過後に検討）
+- [ ] X (Twitter) アカウント開設（ガイド: docs/x-setup.md）
+- [ ] 楽天アフィリエイト登録 → IDをCLAUDE.mdの「楽天アフィリエイトID」欄に記入
+- [ ] 独自ドメイン取得（Associates通過後に検討）
