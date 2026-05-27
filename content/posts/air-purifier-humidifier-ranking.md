@@ -18,6 +18,29 @@ faq:
 
 この記事では2026年最新の**空気清浄機加湿器一体型（加湿空気清浄機）おすすめ10選**を、HEPAフィルター性能・加湿方式・適用畳数・ランニングコストの4つの観点から徹底比較します。花粉症対策・ペットのいる家庭・乾燥が気になる方それぞれに最適な一台が見つかるよう、用途別のおすすめも解説します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🌿 結論だけ知りたい方へ：空気清浄機加湿器一体型おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>花粉症・PM2.5対策</strong>：ダイキン MCK70Z ｜ ストリーマで分解・除去まで徹底</span>
+      <a href="https://www.amazon.co.jp/dp/B0C7QHDM2V/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>コスパ重視</strong>：シャープ KC-L70 ｜ プラズマクラスター×気化式加湿の定番</span>
+      <a href="https://www.amazon.co.jp/dp/B0C9TMSZGN/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>静音・寝室向け</strong>：パナソニック F-VXV90 ｜ nanoe X搭載・高静音設計</span>
+      <a href="https://www.amazon.co.jp/dp/B0BXLRK4V3/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ空気清浄機加湿器一体型ランキング TOP10
@@ -99,9 +122,8 @@ faq:
 
 ランキングの選定基準は**空気清浄性能・加湿性能・フィルター寿命・ランニングコスト・使い勝手**の5項目を総合評価しています。
 
----
-
-### 1位：ダイキン MCK70Z｜ストリーマで分解・除去まで徹底
+{{% rank rank="1" %}}
+### 🥇 第1位：ダイキン MCK70Z｜ストリーマで分解・除去まで徹底
 
 {{< amazon id="B0C7QHDM2V" title="ダイキン MCK70Z 加湿ストリーマ空気清浄機 31畳" >}}
 
@@ -123,9 +145,12 @@ faq:
 | 消費電力 | 49W（最大） |
 | タンク容量 | 約3.2L |
 
+{{% /rank %}}
+
 ---
 
-### 2位：シャープ KC-L70｜プラズマクラスター25000で広範囲をカバー
+{{% rank rank="2" %}}
+### 🥈 第2位：シャープ KC-L70｜プラズマクラスター25000で広範囲をカバー
 
 {{< amazon id="B0C9TMSZGN" title="シャープ KC-L70 プラズマクラスター25000 加湿空気清浄機 31畳" >}}
 
@@ -147,9 +172,12 @@ faq:
 | 消費電力 | 50W（最大） |
 | タンク容量 | 約3.5L |
 
+{{% /rank %}}
+
 ---
 
-### 3位：パナソニック F-VXV90｜ナノイーX 48000億で最上位の除菌力
+{{% rank rank="3" %}}
+### 🥉 第3位：パナソニック F-VXV90｜ナノイーX 48000億で最上位の除菌力
 
 {{< amazon id="B0BXLRK4V3" title="パナソニック F-VXV90 ナノイーX 加湿空気清浄機 40畳" >}}
 
@@ -170,6 +198,8 @@ faq:
 | フィルター寿命 | 10年（集塵フィルター） |
 | 消費電力 | 73W（最大） |
 | タンク容量 | 約3.8L |
+
+{{% /rank %}}
 
 ---
 

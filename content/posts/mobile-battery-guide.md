@@ -20,6 +20,29 @@ faq:
 
 この記事では、モバイルバッテリーの選び方の基本から、2026年のおすすめ製品まで一気に解説します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🔋 結論だけ知りたい方へ：モバイルバッテリーおすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>大容量1位</strong>：Anker 25000mAh 165W ｜ 巻取りケーブル内蔵・PC充電対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0DT4RGDSJ/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>超ハイパワー</strong>：Anker Prime 26250mAh 300W ｜ MacBook Proも急速充電</span>
+      <a href="https://www.amazon.co.jp/dp/B0FKN98246/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>コスパ派</strong>：UGREEN 20000mAh 100W ｜ 薄型・ノートPC対応・価格控えめ</span>
+      <a href="https://www.amazon.co.jp/dp/B0C3GTMX5M/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## モバイルバッテリーの選び方
 
 ### 容量（mAh）の目安

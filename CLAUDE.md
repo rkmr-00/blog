@@ -5,7 +5,7 @@
 
 ---
 
-## セッション引き継ぎ（最終更新: 2026-05-27 セッション11）
+## セッション引き継ぎ（最終更新: 2026-05-28 セッション12）
 
 ### 現在の状態スナップショット
 
@@ -18,7 +18,7 @@
 | X (Twitter) | ⏳ 未開設（セットアップガイド作成済み: docs/x-setup.md） |
 | 独自ドメイン | ❌ 未取得（Associates通過後に検討） |
 | Google Analytics | ✅ 設定済み（測定ID: G-BP0F280FVR・hugo.toml [services.googleAnalytics] に設定済み） |
-| 最終デプロイ | 2026-05-27（上位5記事テンプレート統一・クイックピックス追加） |
+| 最終デプロイ | 2026-05-28（全記事テンプレート統一・クイックピックス＋ランクショートコード全適用） |
 
 ### 次のアクション（優先度順）
 
@@ -26,24 +26,21 @@
 |--------|-----------|------|
 | 🔴 高 | Amazon Associates 審査結果確認 | 通過すれば全53本が収益化開始 |
 | 🔴 高 | X (Twitter) アカウント開設 | docs/x-setup.md にプロフィール・投稿テンプレート準備済み |
-| 🟡 中 | 残り48記事に楽天リンクを追加 | 主要5記事（スマートウォッチ・モニター・コードレス掃除機）に楽天カード未追加 |
-| 🟡 中 | 残り48記事にクイックピックス追加 | top5以外の記事にも順次適用すると高CTRに |
+| 🟡 中 | 全記事に楽天リンクを追加 | 主要記事以外に楽天カード未追加のものが多い |
+| 🟡 中 | `washing-machine-ranking.md` のランクショートコード対応 | 構造が特殊（ドラム式・縦型に分割）でスキップ中 |
 | 🟢 低 | 独自ドメイン取得 | Associates通過後に検討 |
 | 🟢 低 | GSCでCTR低い記事のタイトル改善 | GSCデータ蓄積後（1〜2ヶ月後） |
 
-### 直近セッションで実施したこと（2026-05-27 セッション11）
+### 直近セッションで実施したこと（2026-05-28 セッション12）
 
-- **ランキング記事テンプレート統一（上位5記事）**：
-  - `wireless-earphone-ranking.md`・`electric-bicycle-ranking.md` をひな型として確認
-  - `smartwatch-ranking.md`・`monitor-ranking.md`・`cordless-vacuum-ranking.md`・`robot-vacuum-ranking.md`・`laptop-ranking.md` の5記事を更新
-  - **クイックピックスボックス**（rawhtml quick-picks div）を各記事冒頭に追加
+- **全ランキング記事テンプレート統一（計15記事）**：
+  - セッション11で上位5記事完了済み→残り15記事を今セッションで実施
+  - 対象：`hair-iron`・`microwave`・`air-purifier-humidifier`・`gaming-keyboard`・`portable-power-station`・`dehumidifier`・`humidifier`・`electric-pressure-cooker`・`vacuum-cleaner`・`dishwasher`・`hot-plate`・`smartphone`・`water-server`・`fan-circulator`・`washing-machine`
+  - **クイックピックスボックス**（rawhtml quick-picks div）を全記事冒頭に追加
   - **ランクショートコード**（`{{% rank rank="1|2|3" %}}...{{% /rank %}}`）を1〜3位に追加
-  - `laptop-ranking.md` の「結論：ノートパソコンおすすめTOP3」セクションをクイックピックスボックスに置き換え
-- **archetypes/ranking.md フルテンプレート更新**：
-  - クイックピックス・ランクショートコード・check・Amazon+楽天ペアカードを全て含む完全テンプレート
-- **docs/content-guide.md テンプレート構造を追記**：
-  - ショートコード使い方（rank・check・amazon全パラメータ・rakuten）をドキュメント化
-  - ディレクトリ構成に rakuten.html・rakuten.css・rank.html・check.html を追加
+  - `washing-machine-ranking.md` はドラム式・縦型に分割された特殊構造のためランクショートコードをスキップ（クイックピックスのみ追加）
+  - 絵文字メダル（🥇🥈🥉）・`第N位：` prefix を各記事の形式に合わせて追加
+  - **Amazonカードが上部にある形式**（microwave・air-purifier-humidifier・portable-power-station・dishwasher・hot-plate・smartphone・water-server・fan-circulator）の `{{% /rank %}}` はスペックテーブル末尾に配置
 
 ### セッション終了時のチェックリスト
 

@@ -20,6 +20,29 @@ faq:
 
 この記事では、**食器洗い乾燥機おすすめランキング10選**をパナソニック・アイリスオーヤマ・シーメンスなど主要メーカーから厳選してご紹介します。選び方のポイントも詳しく解説するので、失敗なく自分にぴったりの食洗機を見つけてください。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🍽️ 結論だけ知りたい方へ：食器洗い乾燥機おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>タンク式最高峰</strong>：パナソニック NP-TZ500 ｜ スマート機能×工事不要で賃貸にも対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0C8V5TNFX/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>コスパ重視</strong>：アイリスオーヤマ KISHT-5000 ｜ タンク式×コンパクト設計で価格も抑えめ</span>
+      <a href="https://www.amazon.co.jp/dp/B0C27DK9HV/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>スリム・省スペース</strong>：パナソニック NP-TCR5 ｜ 分岐水栓式×スリムデザイン</span>
+      <a href="https://www.amazon.co.jp/dp/B0BYN6QRFC/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## 結論：食器洗い乾燥機おすすめ TOP3
@@ -87,7 +110,8 @@ faq:
 
 ## 【2026年最新】食器洗い乾燥機おすすめランキング10選
 
-### 1位：パナソニック NP-TZ500｜タンク式の最高峰・スマート機能搭載
+{{% rank rank="1" %}}
+### 🥇 第1位：パナソニック NP-TZ500｜タンク式の最高峰・スマート機能搭載
 
 {{< amazon id="B0C8V5TNFX" title="パナソニック 食器洗い乾燥機 NP-TZ500" >}}
 
@@ -108,9 +132,12 @@ faq:
 | 消費電力 | 830W |
 | 本体サイズ（幅×奥行×高さ） | 550×344×600mm |
 
+{{% /rank %}}
+
 ---
 
-### 2位：アイリスオーヤマ KISHT-5000｜コスパ最強のタンク式・初心者に最適
+{{% rank rank="2" %}}
+### 🥈 第2位：アイリスオーヤマ KISHT-5000｜コスパ最強のタンク式・初心者に最適
 
 {{< amazon id="B0C27DK9HV" title="アイリスオーヤマ 食器洗い乾燥機 KISHT-5000" >}}
 
@@ -131,9 +158,12 @@ faq:
 | 消費電力 | 680W |
 | 本体サイズ（幅×奥行×高さ） | 550×380×540mm |
 
+{{% /rank %}}
+
 ---
 
-### 3位：パナソニック NP-TCR5｜コンパクト5人分・分岐水栓式の定番
+{{% rank rank="3" %}}
+### 🥉 第3位：パナソニック NP-TCR5｜コンパクト5人分・分岐水栓式の定番
 
 {{< amazon id="B0BYN6QRFC" title="パナソニック 食器洗い乾燥機 NP-TCR5" >}}
 
@@ -153,6 +183,8 @@ faq:
 | 運転音 | 約40dB |
 | 消費電力 | 800W |
 | 本体サイズ（幅×奥行×高さ） | 550×312×551mm |
+
+{{% /rank %}}
 
 ---
 

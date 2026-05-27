@@ -18,6 +18,29 @@ faq:
 
 「とにかく早く沸く」もの、「コーヒー・緑茶の温度にこだわりたい」もの、「インテリアに合うデザイン重視」のもの——この記事では用途・予算別に2026年のおすすめ電気ケトルをランキング形式で紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">☕ 結論だけ知りたい方へ：電気ケトルおすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>デザイン1位</strong>：バルミューダ The Pot ｜ 細口・コーヒードリップに最高峰</span>
+      <a href="https://www.amazon.co.jp/dp/B0GZZKM8GQ/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>温度設定派</strong>：デロンギ KBLA3001J ｜ 5℃刻み温調×60分保温</span>
+      <a href="https://www.amazon.co.jp/dp/B0BTLML12B/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>国産安心</strong>：タイガー PCH-G080 ｜ 高速沸騰・転倒防止・保温付き</span>
+      <a href="https://www.amazon.co.jp/dp/B00EC5B5ZS/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ電気ケトル TOP8
@@ -56,6 +79,7 @@ faq:
 
 ## おすすめ電気ケトル ランキング TOP8
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：バルミューダ The Pot（デザイン最高峰・コーヒー向け）
 
 **こんな人におすすめ：** キッチンのインテリアにこだわりたい・細口で丁寧にコーヒーを淹れたい人
@@ -74,8 +98,11 @@ faq:
 
 {{< amazon id="B0GZZKM8GQ" title="バルミューダ The Pot 電気ケトル KPT03JP" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="2" %}}
 ### 🥈 第2位：デロンギ KBLA3001J（温度設定×ヨーロピアンデザイン）
 
 **こんな人におすすめ：** 温度調節でコーヒー・紅茶・緑茶を最適温度で楽しみたい・デザイン重視の温度設定モデル
@@ -94,8 +121,11 @@ faq:
 
 {{< amazon id="B0BTLML12B" title="デロンギ アイコナ KBOE1230J 温度調節ケトル" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="3" %}}
 ### 🥉 第3位：タイガー魔法瓶 PCH-G080（国産・保温機能・実用最強）
 
 **こんな人におすすめ：** 日本製の信頼性重視・保温機能が欲しい・使いやすさ優先
@@ -112,6 +142,8 @@ faq:
 | 安全機能 | 空炊き防止・転倒防止・蒸気低減 |
 
 {{< amazon id="B00EC5B5ZS" title="タイガー PCH-G080 電気ケトル 0.8L ホワイト" >}}
+
+{{% /rank %}}
 
 ---
 

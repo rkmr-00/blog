@@ -18,6 +18,29 @@ faq:
 
 ゲーミングマウスは一般的なマウスとは別次元のセンサー精度・クリック耐久性・軽量設計を実現しており、ゲームパフォーマンスに直結します。この記事では、2026年のおすすめモデルをFPS・MOBA・MMO別にランキング形式で紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🖱️ 結論だけ知りたい方へ：ゲーミングマウスおすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>FPS特化</strong>：Logicool G Pro X2 Superlight ｜ 60g・HERO2センサー・プロ仕様</span>
+      <a href="https://www.amazon.co.jp/dp/B0GGX35X72/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>人間工学重視</strong>：Razer DeathAdder V3 HyperSpeed ｜ 64g・バッテリー300時間</span>
+      <a href="https://www.amazon.co.jp/dp/B0FP18G13S/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>MMO・多ボタン</strong>：SteelSeries Rival 5 ｜ 9ボタン・有線・コスパ優秀</span>
+      <a href="https://www.amazon.co.jp/dp/B0F5QBSRDR/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめゲーミングマウスTOP10
@@ -61,6 +84,7 @@ faq:
 
 ## おすすめゲーミングマウス ランキング TOP10
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：Logicool G Pro X Superlight 2（プロゲーマー御用達の最高峰）
 
 **こんな人におすすめ：** FPS・TPS・バトルロイヤルで本気で勝ちたい人、プロ仕様のマウスを使いたい人

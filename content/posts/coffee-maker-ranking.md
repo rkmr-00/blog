@@ -18,6 +18,29 @@ faq:
 
 この記事では2026年の人気コーヒーメーカーを**全自動・カプセル式・ドリップ式**のタイプ別に分けて比較し、あなたの理想の一杯を実現するモデルをランキング形式で紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">☕ 結論だけ知りたい方へ：コーヒーメーカーおすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>全自動入門1位</strong>：デロンギ マグニフィカ スタート ｜ 豆から全自動・カフェ品質</span>
+      <a href="https://www.amazon.co.jp/dp/B0DJW2CMMS/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>手軽さ最優先</strong>：ネスプレッソ ヴェルチュオ ネクスト ｜ 30秒で5サイズ対応</span>
+      <a href="https://www.amazon.co.jp/dp/B09HQFXX65/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>全自動コスパ</strong>：シロカ SC-C122 ｜ コンパクト全自動・豆粉両対応</span>
+      <a href="https://www.amazon.co.jp/dp/B077VSTT7L/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめコーヒーメーカー TOP8
@@ -54,6 +77,7 @@ faq:
 
 ## おすすめコーヒーメーカー ランキング TOP8
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：デロンギ マグニフィカ スタート ECAM220（全自動・エントリーNo.1）
 
 **こんな人におすすめ：** 初めての全自動コーヒーメーカー・豆から挽いた本格コーヒーを毎日飲みたい人
@@ -72,8 +96,11 @@ faq:
 
 {{< amazon id="B0DJW2CMMS" title="デロンギ マグニフィカスタート ECAM22062B 全自動コーヒーメーカー" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="2" %}}
 ### 🥈 第2位：ネスプレッソ ヴェルチュオ ネクスト（カプセル式・全方向コスパ）
 
 **こんな人におすすめ：** 手軽さ最優先・毎回安定した味・エスプレッソからロングカップまで1台で対応したい人
@@ -91,8 +118,11 @@ faq:
 
 {{< amazon id="B09HQFXX65" title="ネスプレッソ ヴァーチュオ ネクスト カプセル式コーヒーメーカー" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="3" %}}
 ### 🥉 第3位：シロカ SC-C122（全自動・コスパNo.1）
 
 **こんな人におすすめ：** 全自動を予算5万円以下で試したい・コンパクトな全自動が欲しい一人暮らし
@@ -109,6 +139,8 @@ faq:
 | 豆タンク | 50g |
 
 {{< amazon id="B077VSTT7L" title="シロカ SC-C122 コーン式全自動コーヒーメーカー" >}}
+
+{{% /rank %}}
 
 ---
 

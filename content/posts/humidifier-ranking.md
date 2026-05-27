@@ -18,6 +18,29 @@ faq:
 
 この記事では2026年の最新モデルを**加湿方式・適用畳数・静音性・電気代**の観点から徹底比較し、ニーズ別におすすめの10選をランキング形式でご紹介します。ぜひ自分にぴったりの一台を見つけてください。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">💦 結論だけ知りたい方へ：加湿器おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>大容量・リビング向け</strong>：ダイニチ HD-LX1222 ｜ ハイブリッド式・最大1200mL/h</span>
+      <a href="https://www.amazon.co.jp/dp/B0B9MWXYZ1/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>ウイルス・菌対策</strong>：シャープ HV-H55 ｜ プラズマクラスターNEXT搭載ハイブリッド</span>
+      <a href="https://www.amazon.co.jp/dp/B0CQFV6G8X/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>衛生・メンテナンス最楽</strong>：象印 EE-DC50 ｜ スチーム式・フィルターなしで清潔</span>
+      <a href="https://www.amazon.co.jp/dp/B0CGPFMVGF/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ加湿器ランキング TOP10
@@ -80,9 +103,8 @@ faq:
 
 選定基準：加湿能力・静音性・メンテナンス性・コスパ・ユーザーレビューの総合評価
 
----
-
-### 第1位：ダイニチ HD-LX1222（ハイブリッド式・大容量・高機能）
+{{% rank rank="1" %}}
+### 🥇 第1位：ダイニチ HD-LX1222（ハイブリッド式・大容量・高機能）
 
 **こんな人におすすめ**
 - リビングや広い部屋で高い加湿能力を求める人
@@ -104,9 +126,12 @@ faq:
 
 {{< amazon id="B0B9MWXYZ1" title="ダイニチ HD-LX1222 ハイブリッド式加湿器 大容量8.5L" >}}
 
+{{% /rank %}}
+
 ---
 
-### 第2位：シャープ HV-H55（ハイブリッド式・プラズマクラスター搭載）
+{{% rank rank="2" %}}
+### 🥈 第2位：シャープ HV-H55（ハイブリッド式・プラズマクラスター搭載）
 
 **こんな人におすすめ**
 - 加湿と同時に空気中のウイルス・菌も抑制したい人
@@ -128,9 +153,12 @@ faq:
 
 {{< amazon id="B0CQFV6G8X" title="シャープ HV-H55 ハイブリッド式加湿器 プラズマクラスターNEXT" >}}
 
+{{% /rank %}}
+
 ---
 
-### 第3位：象印 EE-DC50（スチーム式・衛生・メンテナンスが楽）
+{{% rank rank="3" %}}
+### 🥉 第3位：象印 EE-DC50（スチーム式・衛生・メンテナンスが楽）
 
 **こんな人におすすめ**
 - 赤ちゃんや小さい子どもがいる家庭
@@ -151,6 +179,8 @@ faq:
 | フィルター | なし（清掃のみ） |
 
 {{< amazon id="B0CGPFMVGF" title="象印 EE-DC50 スチーム式加湿器 4.0L ホワイト" >}}
+
+{{% /rank %}}
 
 ---
 

@@ -18,6 +18,29 @@ faq:
 
 この記事では2026年の最新モデルを**除湿方式・除湿量・衣類乾燥機能・消費電力・運転音**の観点から徹底比較し、ニーズ別におすすめの10選をランキング形式でご紹介します。梅雨シーズンの湿気対策・部屋干し臭の解消・結露防止にぴったりの一台を見つけてください。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">💨 結論だけ知りたい方へ：除湿機おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>オールシーズン・衣類乾燥最強</strong>：パナソニック F-YHVX120 ｜ ハイブリッド式・ナノイーX搭載</span>
+      <a href="https://www.amazon.co.jp/dp/B0CDYHVX12/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>省エネ・プラズマクラスター</strong>：シャープ CV-H120FX ｜ 梅雨・夏の省電力コンプレッサー式</span>
+      <a href="https://www.amazon.co.jp/dp/B0CH120FXS/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>除湿＋冷風・夏の万能機</strong>：コロナ CD-H1822 ｜ 冷風機能付き・大容量18L/日</span>
+      <a href="https://www.amazon.co.jp/dp/B0CDH1822C/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ除湿機ランキング TOP10
@@ -88,9 +111,8 @@ faq:
 
 選定基準：除湿能力・衣類乾燥機能・静音性・消費電力・コスパ・ユーザーレビューの総合評価
 
----
-
-### 第1位：パナソニック F-YHVX120（ハイブリッド式・大容量・衣類乾燥最強）
+{{% rank rank="1" %}}
+### 🥇 第1位：パナソニック F-YHVX120（ハイブリッド式・大容量・衣類乾燥最強）
 
 **こんな人におすすめ**
 - 1年中（梅雨・冬季を問わず）使いたい人
@@ -113,9 +135,12 @@ faq:
 
 {{< amazon id="B0CDYHVX12" title="パナソニック F-YHVX120 衣類乾燥除湿機 ハイブリッド式 ホワイト" >}}
 
+{{% /rank %}}
+
 ---
 
-### 第2位：シャープ CV-H120FX（コンプレッサー式・プラズマクラスター搭載）
+{{% rank rank="2" %}}
+### 🥈 第2位：シャープ CV-H120FX（コンプレッサー式・プラズマクラスター搭載）
 
 **こんな人におすすめ**
 - プラズマクラスターで除湿しながら空気もきれいにしたい人
@@ -138,9 +163,12 @@ faq:
 
 {{< amazon id="B0CH120FXS" title="シャープ CV-H120FX 衣類乾燥除湿機 プラズマクラスター コンプレッサー式" >}}
 
+{{% /rank %}}
+
 ---
 
-### 第3位：コロナ CD-H1822（コンプレッサー式・冷風機能付き・夏の万能選手）
+{{% rank rank="3" %}}
+### 🥉 第3位：コロナ CD-H1822（コンプレッサー式・冷風機能付き・夏の万能選手）
 
 **こんな人におすすめ**
 - 梅雨〜夏にかけて除湿と冷風を一台で使いたい人
@@ -162,6 +190,8 @@ faq:
 | 運転音 | 約43dB |
 
 {{< amazon id="B0CDH1822C" title="コロナ CD-H1822 衣類乾燥除湿機 コンプレッサー式 冷風機能付き" >}}
+
+{{% /rank %}}
 
 ---
 

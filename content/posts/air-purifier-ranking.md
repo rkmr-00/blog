@@ -18,6 +18,29 @@ faq:
 
 この記事では2026年の主要モデルを**花粉症・ペット・赤ちゃんなど悩みのタイプ別**に厳選して紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">💨 結論だけ知りたい方へ：空気清浄機おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>加湿・花粉対策</strong>：シャープ KC-L71 ｜ プラズマクラスター25000・31畳対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0DP2K324K/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>暖冷房・三役</strong>：Dyson Purifier Hot+Cool ｜ 360°HEPAフィルター・アプリ連携</span>
+      <a href="https://www.amazon.co.jp/dp/B0F4KD95ZQ/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>脱臭・ペット臭</strong>：ダイキン MCK504A ｜ ストリーマ技術・加湿対応・25畳</span>
+      <a href="https://www.amazon.co.jp/dp/B0CJDRPFY3/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ空気清浄機ランキングTOP8
@@ -53,6 +76,7 @@ faq:
 
 ## おすすめ空気清浄機 ランキング TOP8
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：シャープ KC-L71（加湿・空気清浄の両立・定番最強）
 
 **こんな人におすすめ：** 乾燥と花粉・PM2.5が気になる人・加湿器と空気清浄機を一台にまとめたい人

@@ -18,6 +18,29 @@ faq:
 
 この記事では**Qi2・MagSafe対応から複数デバイス同時充電まで**、2026年のおすすめモデルをランキング形式で紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">⚡ 結論だけ知りたい方へ：ワイヤレス充電器おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>3デバイス同時充電</strong>：Anker MagGo 3-in-1 ｜ iPhone+Watch+AirPods・折りたたみ対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0CM66LY5F/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>Apple純正・最高信頼</strong>：Apple MagSafe充電器 ｜ 最大25W・Qi2.2対応</span>
+      <a href="https://www.amazon.co.jp/dp/B0FQH2F93J/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>コスパ入門</strong>：Anker 313 ワイヤレス充電器 ｜ Qi対応・1,500円台・まず試したい人に</span>
+      <a href="https://www.amazon.co.jp/dp/B07TJ1CRLF/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめワイヤレス充電器ランキングTOP8
@@ -52,6 +75,7 @@ faq:
 
 ## おすすめワイヤレス充電器 ランキング TOP8
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：Anker MagGo Wireless Charging Station 3-in-1（iPhone・Watch・AirPods同時充電の最高峰）
 
 **こんな人におすすめ：** iPhone・Apple Watch・AirPodsをまとめてスマートに充電したい人

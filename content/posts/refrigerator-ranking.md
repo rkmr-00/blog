@@ -20,6 +20,29 @@ faq:
 
 この記事では2026年最新の冷蔵庫をパナソニック・日立・三菱電機・東芝・シャープを中心に**容量・省エネ・鮮度保持機能・価格**で徹底比較。一人暮らし向けコンパクトモデルから4人家族向け大容量モデルまで10選をランキング形式で紹介します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">❄️ 結論だけ知りたい方へ：冷蔵庫おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>総合1位・省エネNo.1</strong>：パナソニック NR-F608HPX ｜ 微凍結パーシャル・フレンチドア608L</span>
+      <a href="https://www.amazon.co.jp/dp/B0CDNKRTWY/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>まとめ買い派向け</strong>：日立 R-HX54S ｜ まるごとチルドで置くだけ鮮度管理</span>
+      <a href="https://www.amazon.co.jp/dp/B0CVWPXYZ3/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>作り置き派向け</strong>：三菱電機 MR-B46Z ｜ 切れちゃう瞬冷凍で冷凍後も美味</span>
+      <a href="https://www.amazon.co.jp/dp/B0CQ8KJTMM/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめ冷蔵庫 TOP10
@@ -110,6 +133,7 @@ faq:
 
 ---
 
+{{% rank rank="1" %}}
 ### 1位：パナソニック NR-F608HPX｜フレンチドア大容量・省エネNo.1クラス
 
 **こんな人におすすめ**
@@ -131,9 +155,11 @@ faq:
 | カラー | オニキスミラー・シルキーゴールド |
 
 {{< amazon id="B0CDNKRTWY" title="パナソニック NR-F608HPX 608L フレンチドア冷蔵庫" badge="編集部ベストバイ2026" reviews="★4.3 レビュー600件以上（2026年5月調査時点）" price="参考価格 約200,000円前後" campaign="❄️ 大型冷蔵庫1位・今すぐ確認" >}}
+{{% /rank %}}
 
 ---
 
+{{% rank rank="2" %}}
 ### 2位：日立 R-HX54S｜まるごとチルドで食材管理が劇的に楽になる
 
 **こんな人におすすめ**
@@ -155,9 +181,11 @@ faq:
 | カラー | クリスタルミラー・ブラッシュシルバー |
 
 {{< amazon id="B0CVWPXYZ3" title="日立 R-HX54S 540L 冷蔵庫 まるごとチルド" >}}
+{{% /rank %}}
 
 ---
 
+{{% rank rank="3" %}}
 ### 3位：三菱電機 MR-B46Z｜切れちゃう瞬冷凍で冷凍食品の質が変わる
 
 **こんな人におすすめ**

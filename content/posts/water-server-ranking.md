@@ -20,6 +20,29 @@ faq:
 
 しかし月額費用・天然水かRO水か・浄水型か宅配型か……選択肢が多く**どれを選べばいいか分からない**という声を多く聞きます。この記事では2026年の主要モデルを**コスト・水の種類・機能別に徹底比較**します。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">💧 結論だけ知りたい方へ：ウォーターサーバーおすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>天然水＋コーヒーメーカー一体型</strong>：プレミアムウォーター FRECIOUS Slat+cafe ｜ コーヒーメーカー搭載・UV除菌完備</span>
+      <a href="https://www.amazon.co.jp/dp/B0CN7V98BP/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>AI自動注文・天然水</strong>：コスモウォーター Smartプラス ｜ 残量自動検知・横置き式ボトル</span>
+      <a href="https://www.amazon.co.jp/dp/B0CMKWQX5V/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>健康・電解水素水</strong>：日本トリム TI-9000 ｜ 医療機器メーカー製・長期コスパ優秀</span>
+      <a href="https://www.amazon.co.jp/dp/B0BB5DLYY6/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## この記事でわかること
 
 - 2026年おすすめウォーターサーバーランキングTOP8
@@ -67,6 +90,7 @@ faq:
 
 ## おすすめウォーターサーバー ランキング TOP8
 
+{{% rank rank="1" %}}
 ### 🥇 第1位：プレミアムウォーター FRECIOUS Slat+cafe（天然水×コーヒーメーカー一体型）
 
 **こんな人におすすめ：** 天然水にこだわりたい・コーヒーも楽しみたい・家族全員で使いたい
@@ -86,8 +110,11 @@ faq:
 
 {{< amazon id="B0CN7V98BP" title="プレミアムウォーター FRECIOUS Slat+cafe ウォーターサーバー" badge="総合1位・天然水おすすめ" reviews="★4.2 レビュー1,400件以上" price="参考価格（レンタル無料・初回水代のみ）" campaign="💧 今すぐAmazonで詳細を確認" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="2" %}}
 ### 🥈 第2位：コスモウォーター Smartプラス（AI自動注文・天然水）
 
 **こんな人におすすめ：** 注文し忘れが多い・スマホで管理したい・天然水の味を重視したい
@@ -105,8 +132,11 @@ faq:
 
 {{< amazon id="B0CMKWQX5V" title="コスモウォーター Smartプラス ウォーターサーバー 天然水" badge="AI自動注文おすすめ" reviews="★4.1 レビュー980件以上" price="参考価格（レンタル無料）" campaign="💧 今すぐAmazonで詳細を確認" >}}
 
+{{% /rank %}}
+
 ---
 
+{{% rank rank="3" %}}
 ### 🥉 第3位：日本トリム TI-9000（電解水素水・健康重視）
 
 **こんな人におすすめ：** 健康・美容に投資したい・電解水素水に興味がある・長期的に使いたい
@@ -123,6 +153,8 @@ faq:
 | 特徴 | 医療機器メーカー製・電解水素水 |
 
 {{< amazon id="B0BB5DLYY6" title="日本トリム TI-9000 電解水素水整水器 シルバー" >}}
+
+{{% /rank %}}
 
 ---
 
