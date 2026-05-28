@@ -100,6 +100,8 @@ Bluetooth接続のみのモデルは**玄関付近でしか操作できません
 
 {{< amazon id="B07DJGX1FF" title="Qrio Lock Q-SL2 スマートロック" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/qriostore/100/" title="Qrio Lock Q-SL2 スマートロック オートロック" badge="Qrio公式" >}}
+
 {{% /rank %}}
 
 ---

@@ -102,6 +102,8 @@ faq:
 
 {{< amazon id="B0FS7JXWJG" title="SteelSeries Arctis Nova 7 マルチ対応ワイヤレスゲーミングヘッドセット" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/rijapan/4548736155237/" title="ソニー INZONE H9 ワイヤレスノイズキャンセリングゲーミングヘッドセット" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

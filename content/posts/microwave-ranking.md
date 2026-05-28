@@ -58,6 +58,8 @@ faq:
 
 {{< amazon id="B0C8ZFXKWJ" title="パナソニック NE-UBS10F スチームオーブンレンジ 30L ブラック" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/panasonic-store/ne-bs9a-k/" title="パナソニック NE-BS9A ビストロ スチームオーブンレンジ 30L" badge="パナソニック公式" >}}
+
 {{< amazon id="B0BZJHG7YM" title="日立 MRO-S8Y スチームオーブンレンジ 30L パールホワイト" >}}
 
 {{< amazon id="B0C4BVLKRR" title="東芝 ER-VD7000 石窯ドーム スチームオーブンレンジ 30L グランホワイト" >}}

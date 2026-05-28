@@ -110,6 +110,8 @@ faq:
 
 {{< amazon id="B0CN7V98BP" title="プレミアムウォーター FRECIOUS Slat+cafe ウォーターサーバー" badge="総合1位・天然水おすすめ" reviews="★4.2 レビュー1,400件以上" price="参考価格（レンタル無料・初回水代のみ）" campaign="💧 今すぐAmazonで詳細を確認" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/als-inc/ws03/" title="コスモウォーター らく楽スタイル smart ウォーターサーバー" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

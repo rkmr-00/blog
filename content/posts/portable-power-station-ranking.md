@@ -56,6 +56,8 @@ faq:
 
 {{< amazon id="B0B9HBK41G" title="EcoFlow DELTA 2 ポータブル電源 1024Wh" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/ecoflow/delta-2-220w/" title="EcoFlow DELTA 2 ポータブル電源 1024Wh リン酸鉄 5年保証" badge="EcoFlow公式" >}}
+
 {{< amazon id="B0CGTK2Q87" title="Jackery Explorer 1000 Plus ポータブル電源 1264Wh" >}}
 
 {{< amazon id="B0CJWB2Q32" title="Anker SOLIX C800 ポータブル電源 768Wh" >}}

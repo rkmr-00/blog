@@ -97,6 +97,8 @@ Alexaを搭載したAmazonのスタンダードモデル最新版。**音質・A
 
 {{< amazon id="B0DKLDS8T7" title="Amazon Echo Dot Max (2025年発売) スマートスピーカー Alexa" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/r-kojima/0840080592077/" title="Amazon Echo Dot 第5世代 スマートスピーカー Alexa" badge="楽天市場" >}}
+
 ---
 
 ### 🥈 第2位：Apple HomePod（第2世代）（音質最高峰・Appleユーザー専用）

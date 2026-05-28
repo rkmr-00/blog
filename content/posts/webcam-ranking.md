@@ -97,6 +97,8 @@ USB-A接続でドライバー不要（プラグ&プレイ）。Windows・Mac・C
 
 {{< amazon id="B07QQR6G5N" title="Logicool C920s HD PRO ウェブカメラ 1080p" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/logicool/c920n/" title="ロジクール C920n ウェブカメラ フルHD 1080p" badge="ロジクール公式" >}}
+
 ---
 
 ### 🥈 第2位：Logicool StreamCam（配信・縦横両対応の本格モデル）

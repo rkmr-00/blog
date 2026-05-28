@@ -159,6 +159,8 @@ Apple HomeKitで統一管理したいiPhoneユーザーは**Roomba**が最も連
 
 {{< amazon id="B08BDW3ZVW" title="Roborock S6 MaxV ロボット掃除機 水拭き LiDARセンサー搭載" badge="Roborock人気モデル" campaign="🤖 水拭き×吸引の全自動モデル" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/konin-todoke/2408-y120780-504924/" title="ロボロック S8 Pro Ultra ロボット掃除機 全自動ドック搭載" badge="楽天市場" >}}
+
 ---
 
 ### Eufy（コスパ最強・全自動ステーション）

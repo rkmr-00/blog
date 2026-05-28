@@ -57,6 +57,8 @@ faq:
 
 {{< amazon id="B09P39WMBQ" title="Logicool G PRO X TKL ゲーミングキーボード GXスイッチ テンキーレス" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/logicool/g913-tkl-tcwh/" title="Logicool G913 TKL ゲーミングキーボード LIGHTSPEED" badge="ロジクール公式" >}}
+
 {{< amazon id="B09GPPFF8Z" title="CORSAIR K70 RGB PRO メカニカルゲーミングキーボード Cherry MX USB Hub搭載" >}}
 
 {{< amazon id="B08CB8WBQX" title="Razer BlackWidow V3 TKL ゲーミングキーボード テンキーレス" >}}

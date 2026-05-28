@@ -117,6 +117,8 @@ ANC性能は**低周波（エアコン・電車の走行音）と高周波（人
 
 {{< amazon id="B09Z2QYYD1" title="ソニー WH-1000XM5 ワイヤレスノイズキャンセリングヘッドホン" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/e-earphone/4548736132566/" title="ソニー WH-1000XM5 ワイヤレスノイズキャンセリングヘッドホン" badge="eイヤホン" >}}
+
 ---
 
 ### 🥈 第2位：Bose QuietComfort 45（快適装着感と優秀なANC）

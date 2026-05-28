@@ -98,6 +98,8 @@ faq:
 
 {{< amazon id="B0GZZKM8GQ" title="バルミューダ The Pot 電気ケトル KPT03JP" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/delonghi/0210100014/" title="De'Longhi KBI1200J-BZ ディスティンタ 電気ケトル" badge="デロンギ公式" >}}
+
 {{% /rank %}}
 
 ---

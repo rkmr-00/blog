@@ -100,6 +100,8 @@ faq:
 
 {{< amazon id="B0C65F55K5" title="Logicool MX Keys S ワイヤレスキーボード テレワーク" badge="編集部ベストバイ2026" reviews="★4.5 レビュー1,500件以上（2026年5月調査時点）" price="参考価格 約14,000円前後" campaign="⌨️ テレワーク1位・今すぐ確認" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/logicool/kx800sgr/" title="Logicool MX KEYS S KX800sGR ワイヤレスキーボード" badge="ロジクール公式" >}}
+
 ---
 
 ### 🥈 第2位：HHKB Professional HYBRID Type-S（プログラマー・ライターの聖域）

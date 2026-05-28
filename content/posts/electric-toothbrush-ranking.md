@@ -105,6 +105,8 @@ Philipsの最高峰シリーズ。**毎分62,000回の音波振動**で歯垢除
 
 {{< amazon id="B0BYRQ8BPH" title="フィリップス ソニッケアー ダイヤモンドクリーン9000 電動歯ブラシ" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/oralb-braun/io9/" title="オーラルB iO9 電動歯ブラシ AI搭載" badge="オーラルB公式" >}}
+
 ---
 
 ### 🥈 第2位：Oral-B iO Series 9（AI搭載で磨き方を学習するOral-B最高峰）

@@ -96,6 +96,8 @@ faq:
 
 {{< amazon id="B0DF3S25ND" title="Dyson V15 Detect Complete コードレス掃除機" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/akindo/sv22ablex/" title="Dyson V15 Detect Complete コードレス掃除機" badge="楽天最安値チェック" >}}
+
 {{< amazon id="B0FKMQYGZC" title="パナソニック MC-SBU840K コードレス掃除機" >}}
 
 {{< amazon id="B09G1JX59S" title="日立 CV-SE300 紙パック式キャニスター掃除機" >}}

@@ -132,6 +132,8 @@ faq:
 
 {{< amazon id="B0CW8K2MGX" title="KINUJO W（絹女ワールド）ストレートアイロン ナノプラチナムガラスプレート" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/kinujo/001/" title="KINUJO W ストレートアイロン DS100 絹女" badge="KINUJO公式" >}}
+
 {{% /rank %}}
 
 ---

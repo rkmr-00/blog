@@ -126,6 +126,8 @@ faq:
 
 {{< amazon id="B0B9MWXYZ1" title="ダイニチ HD-LX1222 ハイブリッド式加湿器 大容量8.5L" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/tno/hv-p75/" title="シャープ HV-P75 プラズマクラスター加湿器 ハイブリッド式" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

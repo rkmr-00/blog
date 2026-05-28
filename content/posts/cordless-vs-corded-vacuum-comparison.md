@@ -165,6 +165,8 @@ faq:
 
 {{< amazon id="B0BTJLGFSF" title="Dyson V15 Detect" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/akindo/sv22ablex/" title="Dyson V15 Detect Complete SV22 コードレス掃除機" badge="楽天市場" >}}
+
 **こんな人におすすめ**
 - 吸引力にこだわりたい人
 - ペット・花粉・ダニアレルゲンが気になる人

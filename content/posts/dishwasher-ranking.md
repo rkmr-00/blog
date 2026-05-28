@@ -51,6 +51,8 @@ faq:
 
 {{< amazon id="B0C8V5TNFX" title="パナソニック 食器洗い乾燥機 NP-TZ500" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/panasonic-store/np-tz500-w/" title="パナソニック 食器洗い乾燥機 NP-TZ500-W" badge="パナソニック公式" >}}
+
 {{< amazon id="B0C27DK9HV" title="アイリスオーヤマ 食器洗い乾燥機 KISHT-5000" >}}
 
 {{< amazon id="B0BYN6QRFC" title="パナソニック 食器洗い乾燥機 NP-TCR5" >}}

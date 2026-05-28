@@ -132,6 +132,8 @@ faq:
 
 {{< amazon id="B0CK3PDLF7" title="シロカ SP-4D151 電気圧力鍋 マルチクッカー 4L シルバー" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/townland-c/y-cy8711jp/" title="ティファール クックフォーミー 6L CY8711JP 電気圧力鍋" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

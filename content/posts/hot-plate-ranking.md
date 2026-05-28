@@ -49,6 +49,8 @@ faq:
 
 {{< amazon id="B00VCCRXL4" title="BRUNO コンパクトホットプレート BOE021" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/bruno-official/1702868/" title="BRUNO コンパクトホットプレート BOE021 ブルーノ公式" badge="BRUNO公式" >}}
+
 {{< amazon id="B07ZN8BHYL" title="テスコム TSK171 プレミアムホットプレート" >}}
 
 {{< amazon id="B09G4JRX9Y" title="パナソニック NF-KW23 ホットプレート 3枚プレート" >}}

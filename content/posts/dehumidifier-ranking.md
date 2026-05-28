@@ -135,6 +135,8 @@ faq:
 
 {{< amazon id="B0CDYHVX12" title="パナソニック F-YHVX120 衣類乾燥除湿機 ハイブリッド式 ホワイト" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/irisplaza-r/514105/" title="アイリスオーヤマ 除湿機 IJC-J56 コンプレッサー式" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

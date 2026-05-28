@@ -97,6 +97,8 @@ Wi-Fi（2.4GHz）接続でHubなしでも外出先から操作可能。コンパ
 
 {{< amazon id="B0DT6X8963" title="SwitchBot プラグミニ 消費電力計測対応 スマートプラグ" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/tplinkdirect/4895252506020/" title="TP-Link Tapo P110 スマートプラグ 電力モニタリング" badge="TP-Link公式" >}}
+
 {{% /rank %}}
 
 ---

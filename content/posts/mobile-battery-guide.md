@@ -77,6 +77,8 @@ faq:
 
 {{< amazon id="B0DT4RGDSJ" title="Anker Power Bank 25000mAh 165W 巻取りUSB-Cケーブル付き" badge="大容量・ケーブル内蔵1位" reviews="★4.4 レビュー1,200件以上（2026年5月調査時点）" price="参考価格 約10,000円前後" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/anker/a1256/" title="Anker Power Bank 10000mAh 30W LEDディスプレイ搭載" badge="Anker公式" >}}
+
 ---
 
 ### 🥈 第2位：Anker Prime Power Bank 26250mAh 300W（超ハイパワー最強）

@@ -58,6 +58,8 @@ faq:
 
 {{< amazon id="B0C7QHDM2V" title="ダイキン MCK70Z 加湿ストリーマ空気清浄機 31畳" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/niche-express/dkn00000000065/" title="ダイキン MCK70Z 加湿ストリーマ空気清浄機" badge="楽天市場" >}}
+
 {{< amazon id="B0C9TMSZGN" title="シャープ KC-L70 プラズマクラスター25000 加湿空気清浄機 31畳" >}}
 
 {{< amazon id="B0BXLRK4V3" title="パナソニック F-VXV90 ナノイーX 加湿空気清浄機 40畳" >}}

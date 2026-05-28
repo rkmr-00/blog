@@ -107,6 +107,8 @@ Synologyの家庭用NASとして最も人気の高い2ベイモデル。**Intel 
 
 {{< amazon id="B0C6927XPX" title="Synology DiskStation DS224+ 2ベイ NAS（HDD別売）" badge="編集部ベストバイ2026" reviews="★4.6 レビュー900件以上（2026年5月調査時点）" price="参考価格 約55,000円前後" campaign="💾 NAS総合1位・今すぐ確認" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/jism/4537694320856-44-26682-n/" title="Synology DS223 2ベイ NASキット" badge="楽天市場" >}}
+
 {{% /rank %}}
 
 ---

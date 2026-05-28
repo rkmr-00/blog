@@ -88,6 +88,8 @@ faq:
 
 {{< amazon id="B07YKM3875" title="final E500 有線イヤホン コスパ最強" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/shure-store/se215/" title="SHURE SE215 高遮音性イヤホン 有線" badge="SHURE公式" >}}
+
 {{% /rank %}}
 
 ---
