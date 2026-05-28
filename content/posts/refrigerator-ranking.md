@@ -210,6 +210,8 @@ faq:
 
 {{< amazon id="B0CQ8KJTMM" title="三菱電機 MR-B46Z 460L 冷蔵庫 切れちゃう瞬冷凍" >}}
 
+{{% /rank %}}
+
 ---
 
 ### 4位：東芝 GR-V550FZ｜大容量+VEGETA野菜室で野菜の鮮度が長持ち

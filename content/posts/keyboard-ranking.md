@@ -102,6 +102,8 @@ faq:
 
 {{< rakuten item_url="https://item.rakuten.co.jp/logicool/kx800sgr/" title="Logicool MX KEYS S KX800sGR ワイヤレスキーボード" badge="ロジクール公式" >}}
 
+{{% /rank %}}
+
 ---
 
 ### 🥈 第2位：HHKB Professional HYBRID Type-S（プログラマー・ライターの聖域）

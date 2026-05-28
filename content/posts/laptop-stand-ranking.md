@@ -97,6 +97,8 @@ faq:
 
 {{< rakuten item_url="https://item.rakuten.co.jp/biget/mjx-pc/" title="Majextand マジェックスタンド ノートパソコンスタンド 折りたたみ" badge="楽天市場" >}}
 
+{{% /rank %}}
+
 ---
 
 ### 🥈 第2位：Rain Design mStand（MacBook専用デスクの美しき定番）

@@ -95,6 +95,8 @@ Ankerの高品質素材と安全設計で信頼性も高く、価格対比の性
 
 {{< rakuten item_url="https://item.rakuten.co.jp/anker/a25m0/" title="Anker MagGo Wireless Charger 15W マグネット式" badge="Anker公式" >}}
 
+{{% /rank %}}
+
 ---
 
 ### 🥈 第2位：Apple MagSafe充電器（公式・最高の信頼性）

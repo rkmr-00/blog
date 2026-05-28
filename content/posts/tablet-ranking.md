@@ -97,6 +97,8 @@ Apple Pencil（第1世代）対応でメモ・お絵描きも可能。Magic Keyb
 
 {{< rakuten item_url="https://item.rakuten.co.jp/try3/4549995560084/" title="Apple iPad 第11世代 A16 11インチ Wi-Fi 128GB" badge="楽天ポイント還元" reason="Apple製品は楽天でもポイント還元！TRYX3で最安値をチェック。" >}}
 
+{{% /rank %}}
+
 ---
 
 ### 🥈 第2位：Apple iPad Air（M2）（性能とコスパの黄金バランス）
