@@ -101,6 +101,8 @@ Acoustic Surface Audio+技術で画面自体がスピーカーとして振動す
 
 {{< amazon id="B091P9Z4VF" title="Sony BRAVIA XR A80L 65インチ OLED 4Kテレビ" badge="編集部ベストバイ2026" reviews="★4.5 レビュー1,200件以上（2026年5月調査時点）" price="参考価格 約300,000円前後" campaign="📺 OLED総合1位・今すぐ確認" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/g-mach/s148772atsumi/" title="SONY BRAVIA XRJ-65A80L 65インチ OLED 4Kテレビ" badge="楽天ポイント還元" reason="高額商品だからこそ楽天ポイントの還元効果大！G-Mach楽天店で最安値をチェック。" >}}
+
 {{% /rank %}}
 
 ---

@@ -123,6 +123,8 @@ faq:
 
 {{< amazon id="B0FXLVBVH4" title="パナソニック ビビ・SL 16Ah 電動アシスト自転車" badge="編集部イチオシ" reviews="★4.3 レビュー950件以上（2026年5月調査時点）" price="参考価格 約89,000円前後" campaign="Amazonポイント対象商品" reason="パナソニックブランドの安心感と16Ahの大容量バッテリーで、片道10km以上の通勤にも余裕で対応します。" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/provocatio/be-fsl033/" title="パナソニック ビビSL BE-FSL033 電動アシスト自転車 20インチ" badge="楽天ポイント還元" reason="楽天ポイントを貯めているならこちら！送料無料ショップ多数でお得に購入できます。" >}}
+
 > **価格は時期により変動します。** 購入前にAmazonで現在の最安値をご確認ください。
 {{% /rank %}}
 

@@ -96,6 +96,8 @@ faq:
 
 {{< amazon id="B0DJW2CMMS" title="デロンギ マグニフィカスタート ECAM22062B 全自動コーヒーメーカー" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/delonghi/0132250037/" title="デロンギ マグニフィカ スタート ECAM22062B 全自動コーヒーマシン" badge="楽天ポイント還元" reason="デロンギ公式楽天店で安心購入！公式店限定の特典や保証が充実。" >}}
+
 {{% /rank %}}
 
 ---

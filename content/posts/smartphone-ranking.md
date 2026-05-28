@@ -56,6 +56,8 @@ faq:
 
 {{< amazon id="B0DGJH5XWB" title="Apple iPhone 16 Pro Max" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/rakutenmobile-store/iphone-16-pro-max/" title="iPhone 16 Pro Max SIMフリー 端末本体 楽天モバイル公式" badge="楽天ポイント還元" reason="楽天モバイル公式で安心購入！楽天カード払いでさらにポイント倍増。" >}}
+
 {{< amazon id="B0D7CKM2SH" title="Google Pixel 9 Pro" >}}
 
 {{< amazon id="B0DRDXKKXT" title="Samsung Galaxy S25 Ultra" >}}

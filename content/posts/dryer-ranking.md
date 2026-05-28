@@ -98,6 +98,8 @@ Dysonのフラッグシップドライヤー。**1秒間に40回の温度計測*
 
 {{< amazon id="B0FYN7B31Q" title="Dyson Supersonic HD08 ヘアドライヤー" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/dyson/441033-01/" title="Dyson Supersonic ヘアドライヤー HD08 公式" badge="楽天ポイント還元" reason="Dyson公式楽天店で購入！公式2年保証付き＋ポイント還元でお得に。" >}}
+
 {{% /rank %}}
 
 ---

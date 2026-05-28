@@ -20,6 +20,29 @@ faq:
 
 この記事では3ブランドを8つの観点で徹底比較し、あなたに最適な選択肢を明確にします。
 
+{{< rawhtml >}}
+<div class="quick-picks">
+  <p class="quick-picks-title">🤖 結論だけ知りたい方へ：用途別おすすめTOP3</p>
+  <ul class="quick-picks-list">
+    <li>
+      <span class="quick-pick-rank">1位</span>
+      <span class="quick-pick-text"><strong>総合最強</strong>：Roborock S6 MaxV ｜ LiDARマッピング・水拭き一体・高コスパ</span>
+      <a href="https://www.amazon.co.jp/dp/B08BDW3ZVW/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">2位</span>
+      <span class="quick-pick-text"><strong>Apple HomeKit連携</strong>：ルンバ i7+ ｜ 自動ゴミ収集・スマートマッピング・信頼の老舗</span>
+      <a href="https://www.amazon.co.jp/dp/B07NZJ4MNS/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+    <li>
+      <span class="quick-pick-rank">3位</span>
+      <span class="quick-pick-text"><strong>コスパ最強</strong>：Eufy RoboVac ｜ 低価格・高吸引力・静音設計のコスパモデル</span>
+      <a href="https://www.amazon.co.jp/dp/B07MH4J8QZ/?tag=merrydietes48-22" target="_blank" rel="nofollow noopener" class="quick-pick-btn">今すぐ確認 →</a>
+    </li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
 ## 比較の前に：各ブランドのキャラクター
 
 | ブランド | 本社 | 特徴のひとこと |

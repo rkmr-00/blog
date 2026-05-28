@@ -155,6 +155,8 @@ faq:
 | カラー | オニキスミラー・シルキーゴールド |
 
 {{< amazon id="B0CDNKRTWY" title="パナソニック NR-F608HPX 608L フレンチドア冷蔵庫" badge="編集部ベストバイ2026" reviews="★4.3 レビュー600件以上（2026年5月調査時点）" price="参考価格 約200,000円前後" campaign="❄️ 大型冷蔵庫1位・今すぐ確認" >}}
+
+{{< rakuten item_url="https://item.rakuten.co.jp/edion/4549980495971/" title="パナソニック NR-F608HPX 608L 6ドアノンフロン冷蔵庫" badge="楽天ポイント還元" reason="エディオン公式楽天店で購入可能。大型家電は楽天ポイント還元でさらにお得！配送設置対応。" >}}
 {{% /rank %}}
 
 ---

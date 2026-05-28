@@ -95,6 +95,8 @@ faq:
 
 {{< amazon id="B0DP2K324K" title="シャープ KI-TX70 プラズマクラスターNEXT 空気清浄機" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/try3/4550556135719/" title="シャープ KI-TX70-W 加湿空気清浄機 プラズマクラスターNEXT ホワイト" badge="楽天ポイント還元" reason="ヤマダ電機やTRYX3など有名店も楽天出店中！ポイント還元でお得に購入。" >}}
+
 ---
 
 ### 🥈 第2位：Dyson Purifier Hot+Cool（暖房・冷風・空気清浄の三役）

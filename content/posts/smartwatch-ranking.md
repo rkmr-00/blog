@@ -108,6 +108,8 @@ Suica対応でコンビニ・交通機関の支払いもこれ一本で完結。
 | 主要センサー | 心電図・血中酸素・体温・クラッシュ検出 |
 
 {{< amazon id="B0FQG2B81Z" title="Apple Watch Series 11 GPSモデル 46mm スポーツバンド" badge="編集部ベストバイ2026" reviews="★4.6 レビュー1,800件以上（2026年5月調査時点）" price="参考価格 約60,000円前後" campaign="⌚ スマートウォッチ1位・今すぐ確認" >}}
+
+{{< rakuten item_url="https://item.rakuten.co.jp/rakutenmobile-store/apple-watch_zkst2421sl/" title="Apple Watch Series 10 シルバー 46mm GPS+Cellular 楽天モバイル公式" badge="楽天ポイント還元" reason="楽天モバイル公式で条件達成で3300ポイント還元！Apple認定店で安心購入。" >}}
 {{% /rank %}}
 
 ---

@@ -58,6 +58,8 @@ faq:
 
 {{< amazon id="B0BZPXQ8L1" title="パナソニック SR-SPA106 おどり炊き 圧力IH炊飯器 5.5合 ブラック" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/giga-web/48235/" title="パナソニック SR-SPA106-K 可変圧力スチームIH炊飯器 Wおどり炊き 5.5合 ブラック" badge="楽天ポイント還元" reason="楽天ポイントを貯めているなら楽天で！送料無料でポイント還元もお得です。" >}}
+
 {{< amazon id="B0C2JXKQ8M" title="タイガー魔法瓶 JPV-A100 土鍋圧力IH炊飯器 5.5合 ブラック" >}}
 
 {{< amazon id="B0BW6RZPF4" title="象印 NW-LB10 圧力IH炊飯器 炎舞炊き 5.5合 ブラック" >}}

@@ -95,6 +95,8 @@ faq:
 
 {{< amazon id="B09Z2PYLQG" title="Andaseat Kaiser3 ゲーミングチェア 4Dアームレスト" badge="編集部ベストバイ2026" reviews="★4.4 レビュー1,300件以上（2026年5月調査時点）" price="参考価格 約65,000円前後" campaign="🎮 ゲーミングチェア1位・今すぐ確認" >}}
 
+{{< rakuten item_url="https://item.rakuten.co.jp/gbft-ltd/an-dase-ateb/" title="Andaseat Kaiser3 ゲーミングチェア ファブリック ランバーサポート付き" badge="楽天ポイント還元" reason="高額商品だからこそ楽天ポイントが有効！GBFT楽天店でポイント還元でお得に。" >}}
+
 {{% /rank %}}
 
 ---

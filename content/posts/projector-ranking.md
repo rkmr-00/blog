@@ -132,6 +132,8 @@ BenQのゲーミング4Kプロジェクターの最上位モデル。3,000ルー
 | AndroidTV | 搭載（Android TV 9.0） |
 
 {{< amazon id="B09GQMQ7BN" title="BenQ TK700STi 4K UHD ゲーミングプロジェクター 3000lm AndroidTV" >}}
+
+{{< rakuten item_url="https://item.rakuten.co.jp/avac/tk700sti/" title="BenQ TK700STi 4K HDR 短焦点ゲーミングプロジェクター" badge="楽天ポイント還元" reason="AV機器専門店AVACの楽天店で購入可能。専門店ならではのサポートも安心。" >}}
 {{% /rank %}}
 
 ---
